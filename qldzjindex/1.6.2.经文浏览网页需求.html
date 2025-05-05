@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>乾隆大藏经图片浏览</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f0f0f0;
+            overflow: hidden; /* 防止滚动条出现 */
+        }
+        .container {
+            position: relative;
+            width: 100vw; /* 使用视窗宽度单位，使容器宽度占屏幕的100% */
+            height: 100vh; /* 使用视窗高度单位，使容器高度占屏幕的100% */
+            background: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden; /* 确保图片不会超出容器 */
+        }
+        img {
+            max-height: 100%; /* 图片高度与容器高度一致 */
+            max-width: 100%; /* 图片宽度与容器宽度一致 */
+            object-fit: contain; /* 保持图片比例并填充容器 */
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: white;
+        }
+        .navigation button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            background-color: #007BFF;
+            color: white;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 10; /* 确保按钮在图片之上 */
+        }
+        .navigation button:hover {
+            background-color: #0056b3;
+        }
+        .navigation button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        #prevBtn {
+            left: 0;
+        }
+        #nextBtn {
+            right: 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <img id="image" src="https://daxumi.cn/qldzj/163/118.png" alt="Image">
+    <div class="navigation">
+        <button id="prevBtn" onclick="changeImage(-1)">上一页</button>
+        <button id="nextBtn" onclick="changeImage(1)">下一页</button>
+    </div>
+</div>
+
+<script>
+    const minPage = 118;
+    const maxPage = 175;
+    let currentPage = 118;
+
+    function changeImage(direction) {
+        currentPage += direction;
+        if (currentPage > maxPage) {
+            currentPage = maxPage;
+        } else if (currentPage < minPage) {
+            currentPage = minPage;
+        }
+
+        document.getElementById('image').src = `https://daxumi.cn/qldzj/163/${currentPage}.png`;
+
+        // 更新按钮状态
+        document.getElementById('prevBtn').disabled = currentPage === minPage;
+        document.getElementById('nextBtn').disabled = currentPage === maxPage;
+    }
+
+    // 初始化按钮状态
+    document.getElementById('prevBtn').disabled = currentPage === minPage;
+    document.getElementById('nextBtn').disabled = currentPage === maxPage;
+</script>
+
+</body>
+</html>
