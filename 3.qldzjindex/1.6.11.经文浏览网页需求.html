@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>乾隆大藏经图片浏览</title>
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+      background-color: #f0f0f0; /* 窗口背景色 */
+    }
+
+    .container {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    img {
+      max-width: 95vw;
+      max-height: 95vh;
+      object-fit: contain;
+      border: 1px solid #ddd;
+      background-color: white;
+      transition: opacity 0.3s;
+      z-index: 2; /* 图片层级高于按钮 */
+      position: relative; /* 必须设置为相对定位才能使用z-index */
+    }
+
+    .navigation button {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 1; /* 默认按钮层级低于图片 */
+      padding: 30px; /* 放大按钮三倍 */
+      font-size: 48px; /* 增加字体大小以适应圆形 */
+      cursor: pointer;
+      border: none; /* 移除边框 */
+      background-color: #f0f0f0; /* 背景颜色与窗口背景色一致 */
+      color: #007BFF; /* 文字颜色保持可见 */
+      border-radius: 50%; /* 圆形按钮 */
+      transition: background-color 0.3s, opacity 0.3s;
+      opacity: 0; /* 默认隐藏按钮 */
+      pointer-events: none; /* 默认不响应鼠标事件 */
+    }
+
+    .navigation button:hover, .container:hover .navigation button {
+      background-color: #e0e0e0; /* 鼠标悬停时稍微变暗 */
+      opacity: 1; /* 鼠标悬停时显示 */
+      pointer-events: auto; /* 悬停时允许鼠标事件 */
+    }
+
+    .navigation button:disabled {
+      background-color: #f0f0f0;
+      cursor: not-allowed;
+      opacity: 0.5;
+      pointer-events: none; /* 禁用时不允许鼠标事件 */
+    }
+
+    /* 当鼠标悬停在容器上时显示按钮 */
+    .container:hover .navigation button {
+      opacity: 1;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <img id="image" src="https://daxumi.cn/qldzj/163/118.png" alt="Image" />
+  <div class="navigation">
+    <button id="prevBtn">&lt;</button>
+    <button id="nextBtn">&gt;</button>
+  </div>
+</div>
+
+<script>
+  const minPage = 118;
+  const maxPage = 175;
+  let currentPage = 118;
+
+  function changeImage(direction) {
+    currentPage += direction;
+    if (currentPage > maxPage) currentPage = maxPage;
+    else if (currentPage < minPage) currentPage = minPage;
+
+    document.getElementById('image').src = `https://daxumi.cn/qldzj/163/${currentPage}.png`;
+
+    updateButtonState();
+    positionButtons(); // 更新按钮位置
+  }
+
+  function updateButtonState() {
+    document.getElementById('prevBtn').disabled = currentPage === minPage;
+    document.getElementById('nextBtn').disabled = currentPage === maxPage;
+  }
+
+  function positionButtons() {
+    const img = document.getElementById('image');
+    const rect = img.getBoundingClientRect();
+
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+
+    // 上一页按钮：右边贴着图片左边
+    prevBtn.style.left = `${rect.left - prevBtn.offsetWidth / 2}px`;
+    prevBtn.style.top = `${window.scrollY + rect.top + rect.height / 2}px`;
+
+    // 下一页按钮：左边贴着图片右边
+    nextBtn.style.left = `${rect.right - nextBtn.offsetWidth / 2}px`;
+    nextBtn.style.top = `${window.scrollY + rect.top + rect.height / 2}px`;
+  }
+
+  // 页面加载完成后定位一次
+  window.onload = () => {
+    positionButtons();
+    updateButtonState(); // 初始化按钮状态
+  };
+
+  // 监听窗口变化时重新定位按钮
+  window.onresize = () => {
+    positionButtons();
+  };
+
+  // 绑定按钮点击事件
+  document.getElementById('prevBtn').addEventListener('click', () => changeImage(-1));
+  document.getElementById('nextBtn').addEventListener('click', () => changeImage(1));
+</script>
+
+</body>
+</html>
