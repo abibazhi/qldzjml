@@ -1,0 +1,1036 @@
+./selected_images/qldzjpng_001_103.jpg, 大清重刻龙藏记, 大清重刻龙藏业记
+./selected_images/qldzjpng_001_165.png, 大般若波罹蜜多经, 大般若波罗蜜多经, ，韶
+./selected_images/qldzjpng_014_085.png, 放光般若波罗蜜经, 放光般若波罗蜜经, 西, 晋三藏无罗叉共竺叔兰
+./selected_images/qldzjpng_014_525.png, 摩河般若波罗蜜经, 摩可般若波罗蜜经, 姚秦三藏法师妈摩罗什共僧廓
+./selected_images/qldzjpng_015_381.png, 光谱般若波罗蜜经, 光器般若波罗蜜经, 西晋三藏法师·竺法护, 译
+./selected_images/qldzjpng_015_551.png, 道行般若波罗蜜经, 道行般若波罗蜜经, 晋, 襄阳释道安, 撰
+./selected_images/qldzjpng_016_003.png, 小品般若经, 小品般若波罗蜜经, 姚秦三藏法师摩罗什
+./selected_images/qldzjpng_016_153.png, 靡刨般若波罗蜜钞经, 摩般若波罗蜜经钞, 符秦天竺沙门蜃摩蜱共竺佛念等
+./selected_images/qldzjpng_016_239.png, 大明度无极经, 大明度无极经, 只月支优婆塞支谦
+./selected_images/qldzjpng_016_329.png, 胜天王般若波罗蜜经, 胜天王般若波罗蜜经, 陈优禅尼国王于月婆首那
+./selected_images/qldzjpng_016_447.png, 金刚般若波罗蜜经, 金刷般若波罗蜜经, 藏, 鑫
+./selected_images/qldzjpng_016_489.png, 能纤金刚般若波罹蜜经, 能断金刚般若波罗蜜经, 玄奘奉, 韶, 制
+./selected_images/qldzjpng_016_519.png, 金刚能断般若波罗蜜经, 金刚能般若波罗蜜经, 隋, 藏, 笈多记
+./selected_images/qldzjpng_016_535.png, 佛说濡首菩萨无上清净分街经, 濡首菩蓝无上清净分卫经, 刘宋游幻瓣
+./selected_images/qldzjpng_016_565.png, 仁王国般若波罗蜜经, 仁王蔻国股若波罗蜜经
+./selected_images/qldzjpng_016_593.png, 贺相般若波翟蜜裆, 实相般若波罗蜜经, 唐南天竺沙门菩提流志等奉制
+./selected_images/qldzjpng_016_603.png, 摩河般若波罗蜜大明咒经, 摩般若波罗蜜大明咒经, 后秦三藏摩罗什
+./selected_images/qldzjpng_016_607.png, 般若波罹蜜多心经, 般若波罗蜜多心经, 唐三藏法师立奘奉, 韶罐
+./selected_images/qldzjpng_016_611.png, 文殊师利所摩铜般若波罗蜜经, 文殊师利所摩般若波罗蜜经, 梁扶南三藏曼陀罗仙
+./selected_images/qldzjpng_016_633.png, 文殊师利所说段若波罗蜜经, 文殊师利所般若波罗蜜经, 梁扶南三藏僧伽婆罗罐
+./selected_images/qldzjpng_017_003.png, 大宝精经, 大宝猜经, 唐三藏法师菩提流志奉韶
+./selected_images/qldzjpng_019_467.png, 大方广三戒经, 大方广三戒经, 北, 凉天竺三藏晏无识
+./selected_images/qldzjpng_019_515.png, 佛说无量清净平等费经, 佛无量清净平等觉经, 后, 汉月支三藏支妻迦
+./selected_images/qldzjpng_019_575.png, 佛阿尔陀经, 佛说阿陀经, 吴月氏优婆塞支
+./selected_images/qldzjpng_019_627.png, 佛无量寿经, 佛无量寿经, 曹, 康, 僧
+./selected_images/qldzjpng_020_003.png, 佛说阿门佛国经, 佛阿闪佛国经, 后汉月支三藏支妻迦
+./selected_images/qldzjpng_020_043.png, 佛说大乘十法经, 佛说大乘十法经, 梁, 僧, 仇口, 婆, 罗
+./selected_images/qldzjpng_020_063.png, 佛说普门品经, 佛日门品经, 西, 竺
+./selected_images/qldzjpng_020_075.png, 文殊师利佛土严净经, 文殊师利佛土严净经, 西, 晋三藏竺法护, 泽
+./selected_images/qldzjpng_020_109.png, 佛说胞胎经, 佛胞胎经, 西晋三藏竺法护课
+./selected_images/qldzjpng_020_125.png, 佛说法镜经, 佛法镜经, 兵三藏沙门康僧, 撰
+./selected_images/qldzjpng_020_151.png, 郁迦罗越问经, 郁迦罗越问菩行经, 西晋三藏竺法
+./selected_images/qldzjpng_020_175.png, 幻士仁贤经, 幻士仁贤经, 西晋三藏竺法护
+./selected_images/qldzjpng_020_195.png, 佛说决定昆尼经, 佛说决定毗尼经, 敷, 煌, 藏
+./selected_images/qldzjpng_020_213.png, 发觉净心经, 发觉净心经, 隋天竺三藏関那崛多
+./selected_images/qldzjpng_020_241.png, 佛优填王经, 佛优填王经, 西晋沙门稗法炬
+./selected_images/qldzjpng_020_249.png, 佛说须摩提经, 佛摩提经, 西, 晋三藏竺法护
+./selected_images/qldzjpng_020_259.png, 佛说须摩提菩萨经, 佛摩提菩萨经
+./selected_images/qldzjpng_020_271.png, 佛说离垢施女经, 佛离垢施女经, 西晋三藏竺法
+./selected_images/qldzjpng_020_295.png, 佛说阿阁世王女阿术蓬经, 阿阁世王女阿术达菩经, 西晋三藏竺法
+./selected_images/qldzjpng_020_313.png, 佛说须赖经, 佛经, 曹魏西域沙门白延于洛阳白马寺罐
+./selected_images/qldzjpng_020_329.png, 佛说须赖经, 佛经, 前凉月支国优婆塞支施愉
+./selected_images/qldzjpng_020_349.png, 得无垢女经, 得无垢女经, 元魏婆罗门般若沥支
+./selected_images/qldzjpng_020_375.png, 文殊师利所不思讲佛境界经, 文殊师利所不思佛境界经, 唐南天竺国沙门菩提流志等奉制
+./selected_images/qldzjpng_020_399.png, 佛说如幻三昧经, 佛如幻三味经, 西, 胥三藏竺法护罐
+./selected_images/qldzjpng_020_457.png, 善住意天子所问经, 善住意天子所问经, 元魏三藏毗目智仙共流支等
+./selected_images/qldzjpng_020_511.png, 太子刷经, 太子刷护经, 西, 晋三藏竺法护
+./selected_images/qldzjpng_020_517.png, 太子和休经, 太子和休经, 僧祐录云安公录中失师名今附西晋录
+./selected_images/qldzjpng_020_523.png, 入法界体性经, 入法界体性经, 隋北天竺二藏法师阁那崛多
+./selected_images/qldzjpng_020_533.png, 慧上菩萨问大善权经, 慧上菩问大善权经, 西, 法, 护, 方
+./selected_images/qldzjpng_020_563.png, 大乘显识经, 大乘显识经, 中天竺国沙门地婆河等奉·勒
+./selected_images/qldzjpng_020_589.png, 佛说大乘方等要慧经, 佛大秉方等要慧经, 后汉安息三藏安世高罐
+./selected_images/qldzjpng_020_593.png, 弥勒菩萨所问本经, 弥勒菩萨所问本经, 西晋三藏竺法护
+./selected_images/qldzjpng_020_603.png, 度一切赭佛境界智严经, 度一切佛境界智严经, 梁扶南三藏法师僧伽婆罗等罐
+./selected_images/qldzjpng_020_615.png, 佛遗日摩尼寳经, 佛遣日摩尼宝经, 后漠月支沙门支迦
+./selected_images/qldzjpng_020_631.png, 摩衍宝严经, 佛摩河衍宝严经, 曾, 失, 名大迦叶品, 名
+./selected_images/qldzjpng_020_651.png, 胜师子吼一乘大方便方广经, 滕师子吼一乘大方便方广经, 刘宋天竺三藏求那跋陀罗
+./selected_images/qldzjpng_020_671.png, 昆耶娑间经, 毗耶娑问经, 后魏三藏法师瞿云般若流支
+./selected_images/qldzjpng_021_003.png, 大方等大集经, 大方等大集经, 北, 谅天竺三藏云无
+./selected_images/qldzjpng_021_587.png, 大乘大方等日藏经, 大乘大方等日藏经, 隋天竺三藏那连提耶舍
+./selected_images/qldzjpng_022_003.png, 大方等大集月藏经, 大方等大集月藏经, 高齐天竺三藏那连提耶舍罐
+./selected_images/qldzjpng_022_213.png, 大乘大集地藏十轮经, 大乘大集地藏十轮经, 唐三藏法师玄英奉
+./selected_images/qldzjpng_022_375.png, 佛说大方广+轮经, 佛大方广十轮经, 失罐师名今附北谅
+./selected_images/qldzjpng_022_481.png, 大集须弥藏经, 大集弥藏经, 高齐那连提耶含共法智罐
+./selected_images/qldzjpng_022_519.png, 虚空孕菩醛经, 虚空孕菩经, 隋, 天竺三藏
+./selected_images/qldzjpng_022_549.png, 虚空藏菩醛经, 虚空藏菩萨经, 姚秦圜三藏佛随耶舍
+./selected_images/qldzjpng_022_577.png, 虚空藏菩藤神咒经, 虚空藏菩神咒经, 刘宋宾三藏摩蜜多
+./selected_images/qldzjpng_022_595.png, 观虚空藏菩萨经, 观虚空藏菩经, 刘宋尉宝三藏摩蜜多罐
+./selected_images/qldzjpng_022_601.png, 佛说菩念佛三味经, 佛说菩念佛三味经, 刘宋天竺沙门功德直共玄杨
+./selected_images/qldzjpng_022_695.png, 佛说大方等大集菩萨念佛三肤经, 佛，大方等大集菩萨念佛三味经, 隋天竺三藏达磨笈多
+./selected_images/qldzjpng_023_004.png, 般舟三味经, 般舟二珠经, 后漠月支三藏支妻迦藏
+./selected_images/qldzjpng_023_054.png, 阿差末菩经, 阿差末苦萨经, 西, 晋, 三藏竺法护
+./selected_images/qldzjpng_023_142.png, 大方等大集贤护经, 大方等大集贤护经, 隋天竺三藏那崛多及多等
+./selected_images/qldzjpng_023_220.png, 拔陂菩萨经, 拔陂菩萨经, 后漠月支三藏支妻迦, 开, 经
+./selected_images/qldzjpng_023_236.png, 无尽意菩萨经, 无盏意菩经, 刘宋凉州沙门智严共寳云
+./selected_images/qldzjpng_023_320.png, 大集璧喻王经, 大集壁臂喻王经, 隋天竺三藏阁那崛多等
+./selected_images/qldzjpng_023_354.png, 大哀经, 大哀经, 西晋三藏竺法罐
+./selected_images/qldzjpng_023_472.png, 寳女所问经, 宝女所问经, 西晋三藏竺法护
+./selected_images/qldzjpng_023_534.png, 无言童子经, 无言童子经, 西晋三藏, 竺法护泽
+./selected_images/qldzjpng_023_574.png, 自在王菩经, 自在王菩萨经, 姚秦三藏法师, 摩罗什, 薛
+./selected_images/qldzjpng_023_608.png, 鑫迅王问经, 迅王问经, 元魏三藏瞿鬓般若流支等
+./selected_images/qldzjpng_023_648.png, 宝星陀罗尼经, 宝星陀罗尼经
+./selected_images/qldzjpng_023_778.png, 度诺佛境界智光严经, 度谐佛境界智光严经, 失人名附三秦录
+./selected_images/qldzjpng_023_796.png, 大乘金刚髻珠菩萨修行分经, 大乘金刚髻珠菩修行分经, 唐三藏法师菩提流志
+./selected_images/qldzjpng_024_003.png, 大方广佛华殿经, 大方广佛华严经, 东晋天竺三藏佛陀欧陀罗等
+./selected_images/qldzjpng_025_371.png, 大方广佛华厂经, 大方广佛华严经, 唐于闻国三藏沙门实义陀
+./selected_images/qldzjpng_027_643.png, 信力入印法门经, 信力入印法门经, 元, 魏三藏晏摩流支罐
+./selected_images/qldzjpng_028_005.png, 佛华严入如来德智不思境界经, 佛华严入如来德智不思境界经, 隋天竺三藏法师那崛多
+./selected_images/qldzjpng_028_027.png, 佛说如来兴经, 佛说如来兴显经, 晋三藏法, 竺法护
+./selected_images/qldzjpng_028_095.png, 大方广入如来智德不思经, 大方广入如来智德不思经, 唐于三藏法师实叉难佗罐
+./selected_images/qldzjpng_028_109.png, 大方广佛华瞰经修慈分, 大方广佛华经修慈分, 唐于三藏法师提云般若等奉制
+./selected_images/qldzjpng_028_117.png, 显无透佛土功德经, 显无佛土功德经, 唐三藏法师玄奘奉, 韶罐
+./selected_images/qldzjpng_028_121.png, 大方广佛华严经不思佛境界分, 大方广佛华严经不思佛境界分, 唐于腊三藏法师提蜃般若罐
+./selected_images/qldzjpng_028_135.png, 大方广如来不思境界经, 大方广如来不思境界经, 唐于三藏法师实又难陀
+./selected_images/qldzjpng_028_147.png, 大方广普贤所说经, 大方广普贤所经, 唐于三藏法师实又陀
+./selected_images/qldzjpng_028_153.png, 庄严菩提心经, 庄菩提心经, 姚秦三藏法师鸠摩罗什
+./selected_images/qldzjpng_028_161.png, 佛说菩萨本业经, 佛菩萨本业经, 吴月支优婆塞支罐
+./selected_images/qldzjpng_028_175.png, 大方广佛华厂经髓入法界品, 大方广佛华严经续入法界品, 唐中天竺三藏地婆罗奉制
+./selected_images/qldzjpng_028_185.png, 佛说兜沙经, 佛沙经, 后汉月支三藏法师支迦藏
+./selected_images/qldzjpng_028_191.png, 大方广菩萨十地经, 大方广菩萨十地经, 元魏三藏吉迦夜共鬓腥罐
+./selected_images/qldzjpng_028_199.png, 度世品经, 度世品经, 西晋三藏法师竺法护罐
+./selected_images/qldzjpng_028_315.png, 十住经, 十住经, 姚秦三藏法师摩什共佛陀耶舍
+./selected_images/qldzjpng_028_415.png, 佛说罗摩伽经, 佛罗摩伽经, 乞伏秦沙门圣坚
+./selected_images/qldzjpng_028_487.png, 菩萨求佛本业经, 菩求佛本业经魅螺, 西, 晋清信士最道具
+./selected_images/qldzjpng_028_499.png, 菩萨十住行道品经, 菩十住行道品经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_028_509.png, 佛说菩萨十住经, 佛菩萨十住经, 东晋西域三藏祗多蜜
+./selected_images/qldzjpng_028_515.png, 渐备一切智德经, 潮备一切智德经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_028_623.png, 等目菩萨所问三味经, 西晋三藏法师竺法罐
+./selected_images/qldzjpng_028_673.png, 文殊师利问菩藤署经, 文殊师利问菩萨署经, 后汉月支国沙门支妻迦
+./selected_images/qldzjpng_029_003.png, 大般涅檗经, 大般涅繁经, 北凉天竺三藏鬓无奉, 韶
+./selected_images/qldzjpng_030_003.png, 南本大般涅檗经, 南本大般涅蟹经, 北凉天竺三藏苔无藏梵, 宋沙门严慧观同谢灵运, 再治
+./selected_images/qldzjpng_031_131.png, 大般涅繁经, 大般涅繁经后分, 唐沙门若那跋佗罗舆等
+./selected_images/qldzjpng_031_171.png, 佛说方等般泥经, 佛方等般泥汇经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_031_219.png, 大悲经, 大悲, 高齐天竺三藏那连提黎耶舍共法智, 经
+./selected_images/qldzjpng_031_303.png, 大般涅经, 大般涅繁经, 东
+./selected_images/qldzjpng_031_351.png, 佛说方等泥经, 佛，方等泥经, 失人名附东晋录
+./selected_images/qldzjpng_031_531.png, 四童子三味经, 四童子三味经, 隋天竺三藏法师那崛多
+./selected_images/qldzjpng_031_579.png, 佛垂般涅略说教诚经, 佛垂般湿繁略教诚经, 姚秦三藏法师摩罗什罐
+./selected_images/qldzjpng_031_587.png, 佛临涅乐记法住经, 佛临涅乐记法住经, 唐三藏法师玄奘奉
+./selected_images/qldzjpng_031_593.png, 佛减度后棺敛葬送经, 佛减度后棺敏葬送经, 夫罐人名今附西晋录
+./selected_images/qldzjpng_031_597.png, 般泥后灌脑经, 般泥后灌经, 西晋三藏法师竺法罐
+./selected_images/qldzjpng_032_004.png, 金光明最腾王经, 金光明最胜王经, 唐三藏法师羲净奉, 制罐
+./selected_images/qldzjpng_032_154.png, 金光明经, 金光明经, 北凉三藏法师晏无藏舞
+./selected_images/qldzjpng_032_216.png, 等集德三昧经, 等集德三味经, 西, 胥三藏法师竺法护罐
+./selected_images/qldzjpng_032_264.png, 集一切福德三昧经, 集一切福德三味经, 姚秦三藏法师摩晒什
+./selected_images/qldzjpng_032_312.png, 合部金光明经, 合部金光明经, 隋大典善寺沙门寳贵对天竺三藏志德合入
+./selected_images/qldzjpng_032_428.png, 入定不定印经, 入定不定印经, 唐三藏法师羲净奉, 制舞
+./selected_images/qldzjpng_032_446.png, 不必定入定入印经, 不必定入定入印经, 元魏婆罗门瞿般若流支
+./selected_images/qldzjpng_032_468.png, 无量羲经, 无量义经, 萧齐天竺沙门曼摩伽坨耶舍
+./selected_images/qldzjpng_032_488.png, 妙法莲华经, 妙法莲华经, 姚秦三藏法师熄摩罹什奉韶罐
+./selected_images/qldzjpng_032_644.png, 法华三昧经, 法华三昧经, 宋凉州沙门释智严
+./selected_images/qldzjpng_032_658.png, 萨云芬陀利经, 隆芬陀利经, 僧祐录云安公失人名附西晋录
+./selected_images/qldzjpng_032_664.png, 妙法莲华经观世音菩萨普门品经, 妙法莲华经观世音菩普门品经, 多
+./selected_images/qldzjpng_032_672.png, 正法华经, 正法华经, 西晋三藏竺法护
+./selected_images/qldzjpng_033_097.png, 添品妙法莲华经, 添品妙法莲华经, 隋天竺那崛多共逹摩笈多添品
+./selected_images/qldzjpng_033_257.png, 分别豫起初胜法门经, 分别缘起初胜法门经处都, 唐, 三藏法师玄奘奉
+./selected_images/qldzjpng_033_277.png, 缘生初胜分法本经, 缘生初胜分法本经, 隋天竺三藏法师达磨笈多罐
+./selected_images/qldzjpng_033_299.png, 悲华经, 北凉天竺三藏法师苔无, 悲华经
+./selected_images/qldzjpng_033_487.png, 六度集经, 六度集经, 吴天竺三藏法师康僧会罐
+./selected_images/qldzjpng_033_629.png, 大乘顶王经, 大乘顶王经, 梁优禅尼国王子月婆首那
+./selected_images/qldzjpng_033_649.png, 大方等顶王经, 大方等顶王经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_033_673.png, 维摩喆所说经, 维摩喆所说经
+./selected_images/qldzjpng_034_004.png, 道神足无极化经, 道神足无极变化经, 西晋安息三藏安法钦
+./selected_images/qldzjpng_034_054.png, 说无垢经, 无垢经, 唐三藏法师玄奉韶
+./selected_images/qldzjpng_034_144.png, 阿惟越致遮经, 阿惟越致遮经, 西, 晋三藏法师竺法护
+./selected_images/qldzjpng_034_216.png, 佛说宝雨经, 佛宝雨经, 唐三藏达磨流支等
+./selected_images/qldzjpng_034_350.png, 佛说宝云经, 佛宝云经, 梁扶南三藏曼陀罹仙共僧伽婆罗
+./selected_images/qldzjpng_034_446.png, 佛升利天篇母法经, 佛升物利天为毋法经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_034_484.png, 相解脱地波罗蜜了义经, 相续解胧地波罗蜜了义经, 刘宋天竺三藏法师求那跋陀罗
+./selected_images/qldzjpng_034_496.png, 相解脱如来所作随顺处了义经, 相续解胧如来所作随顺虚了义经, 刘, 宋天竺三藏法师求那跋佗罗罐
+./selected_images/qldzjpng_034_504.png, 佛说解节经, 佛解节经, 陈天竺三藏法师真谛
+./selected_images/qldzjpng_034_516.png, 不退转法轮经, 不退转法轮经, 僧祐云安公凉土具经在北凉录
+./selected_images/qldzjpng_034_592.png, 广博严净不退转法轮经, 广博严净不退转法轮经, 刘宋凉州沙门智严共宝云
+./selected_images/qldzjpng_034_674.png, 方腐大庄严经, 方广大庄严经, 唐中天竺国沙门地婆河罗奉韶罐
+./selected_images/qldzjpng_035_106.png, 普曜经, 普曜经, 西晋三藏法师竺法
+./selected_images/qldzjpng_035_246.png, 佗真陀罗所问寳如来三昧经, 纯真陀罗所问宝如来三昧经, 后漠月支三藏法师支迎
+./selected_images/qldzjpng_035_304.png, 大树聚那罗王所问经, 大树那罗王所问经, 姚, 秦三藏法师摩罗什
+./selected_images/qldzjpng_035_368.png, 法本无经, 法本无经, 隋天竺三藏法师阁那崛多
+./selected_images/qldzjpng_035_406.png, 法无行经, 法无行经, 姚秦三藏法师妈摩罗什罐
+./selected_images/qldzjpng_035_438.png, 持人菩所问经, 持人菩所问经, 西晋三藏法师竺法舞
+./selected_images/qldzjpng_035_490.png, 持世经, 持世经
+./selected_images/qldzjpng_035_564.png, 佛说大灌顶神咒经, 佛大灌顶神况经, 东晋西域三藏帛尸黎蜜多罹罐
+./selected_images/qldzjpng_035_680.png, 佛说文殊师利现实藏经, 佛文殊师利现宝藏经, 西, 晋三藏法师竺法护
+./selected_images/qldzjpng_035_722.png, 大方广宝经, 大方广宝经, 刘宋天竺三藏法师求那跋陀罗罐
+./selected_images/qldzjpng_036_003.png, 佛说药师如来本经, 佛说药师如来本经, 隋天竺三藏法师达磨笈多罐
+./selected_images/qldzjpng_036_017.png, 药师瑶璃光如来本功德经, 药师璃光如来本功德经, 唐三藏法师玄奘奉韶
+./selected_images/qldzjpng_036_029.png, 药师瑙璃光七佛本功德经, 药师瑙璃光七佛本功德经, 唐三藏法师羲净奉, 韶选
+./selected_images/qldzjpng_036_057.png, 番字药师瑶璃光七佛功德经, 番字药师七佛本功德经, 唐三藏法师羲净奉
+./selected_images/qldzjpng_036_087.png, 佛说阿世王经, 佛说阿阁世王经, 后汉月支三藏法师支妻迦
+./selected_images/qldzjpng_036_141.png, 楞伽阿碳多罗宝经, 楞伽阿跋多罗寳经, 宋天竺三藏求那跋陀罗
+./selected_images/qldzjpng_036_233.png, 入楞伽经, 入楞伽经, 元魏天竺三藏法师菩提留支
+./selected_images/qldzjpng_036_413.png, 大乘人楞伽经, 大秉入楞伽经, 唐于国三藏沙门实又奉, 制罐
+./selected_images/qldzjpng_036_549.png, 菩行方便境界神通壁化经, 菩谨行方便境界神通变化经, 刘宋天竺三藏求那跋佗耀
+./selected_images/qldzjpng_036_597.png, 大萨遮尼干子受记经, 大萨遮尼干子受记经, 元魏天竺三藏菩提留支罐
+./selected_images/qldzjpng_037_003.png, 大乘大悲分陀利经, 大乘大悲分陀利经, 失师名附秦录
+./selected_images/qldzjpng_037_165.png, 菩思童子经, 善思童子经, 隋三藏法师阁那崛多
+./selected_images/qldzjpng_037_189.png, 普超三昧经, 普超三味经, 西, 晋三藏法师竺法, 公
+./selected_images/qldzjpng_037_255.png, 佛说放钵经, 佛放钵经, 安公失罐人名开元附西晋
+./selected_images/qldzjpng_037_263.png, 佛说大净法门品经, 佛大净法门品经, 西胥三藏法师竺法护
+./selected_images/qldzjpng_037_289.png, 大庄严法门经, 大庄严法门经, 隋天竺三藏法师那连提黎耶舍
+./selected_images/qldzjpng_037_315.png, 佛大方等大云请雨经, 佛大方等大云请雨经, 隋天竺三藏法师阁那崛多等罐
+./selected_images/qldzjpng_037_335.png, 大云请雨经, 大云请雨经, 宇文周天竺三藏阁那耶舍等
+./selected_images/qldzjpng_037_357.png, 大云轮请雨经, 大云轮请雨经, 隋天竺三藏法师那莲提耶舍罐
+./selected_images/qldzjpng_037_379.png, 胜思惟梵天所问经, 胜思惟梵天所问经, 元魏天竺沙门统大乘师菩提留支罐
+./selected_images/qldzjpng_037_477.png, 思益梵天所问经, 思益梵天所问经, 姚秦三藏法师妈摩罗什罐
+./selected_images/qldzjpng_037_559.png, 月灯三昧经, 月灯三昧经, 高齐天竺三藏法师那连提黎耶舍
+./selected_images/qldzjpng_038_008.png, 月灯三昧经丶佛说象腋经, 刘宋沙门释先公群
+./selected_images/qldzjpng_038_034.png, 佛说无所希望经, 佛无所希望经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_038_054.png, 佛说大乘同性经, 佛大乘同性经, 宇文周三藏阁那耶舍共僧安让
+./selected_images/qldzjpng_038_092.png, 佛说证契大乘经, 佛证契大秉经, 唐中天竺国沙门地婆罗等奉韶
+./selected_images/qldzjpng_038_126.png, 持心梵天所问经, 持心梵天所问经, 西三藏法师竺法护
+./selected_images/qldzjpng_038_216.png, 佛说观无量嘉佛经, 佛观无量寿佛经, 刘宋西域三藏法师画良耶舍
+./selected_images/qldzjpng_038_234.png, 泽土佛摄受经丶佛说阿粥陀经丶拔一切业障根本得生净土神咒丶后出阿弥陀佛偶经, 后出阿弥陀佛褐经, 一切业障根本得生净土神咒击, 佛阿弥陀经, 净土佛摄受经, 刘宋天竺三藏求那跋陀罐奉韶重, 姚秦三藏法师摩显, 唐三藏法师芙奉, 后汉失师名, 什
+./selected_images/qldzjpng_038_252.png, 佛说大阿弥陀经, 佛大阿溺陀经, 兵月支优婆塞支
+./selected_images/qldzjpng_038_294.png, 佛说观粥勒菩藤上生兜率陀天经、佛说弥勒下生经, 佛弥勒下生经, 佛观弥勒菩萨上生兜率陀天经, 当来成, 刘宋居士沮渠京声, 藏法师熄摩罗什
+./selected_images/qldzjpng_038_310.png, 佛说弥勒来时经丶佛说弥勒下生成佛经丶佛说观弥勒菩萨下生经, 佛弥勒下生成佛经, 佛弥勒来时经, 佛观弥勒菩下生经西晋月氏三藏竺法, 唐武周三藏法师羲净奉制罐, 失师名开元绿附东晋第四
+./selected_images/qldzjpng_038_326.png, 佛脱弥勒成佛经, 佛弥勒成佛经, 姚泰三藏法师摩罗什
+./selected_images/qldzjpng_038_344.png, 佛说第一义法胜经, 佛第一义法胜经, 元魏天竺婆罗门瞿墨般若流支等初
+./selected_images/qldzjpng_038_358.png, 佛说大威灯光仙人问疑经, 佛大威灯光仙人问疑经, 隋天丝三藏法师关那崛多课
+./selected_images/qldzjpng_038_374.png, 切法高王经, 切法高王经, 元魏婆罗门瞿云般若流支
+./selected_images/qldzjpng_038_394.png, 佛说诺法勇王经, 佛法勇王经, 刘宋圜宾三藏法师墨摩蜜多
+./selected_images/qldzjpng_038_414.png, 顺权方便经, 顺权方便经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_038_442.png, 佛说乐璎珞庄厅方便经, 姚秦滨三藏法师摩耶舍
+./selected_images/qldzjpng_038_468.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_038_492.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_038_514.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_038_538.png, 佛德护长者经, 佛德护长者经, 隋天竺三藏法师那连提黎耶合
+./selected_images/qldzjpng_038_566.png, 佛精子经丶佛乳光佛经丶佛说无垢贤女经丶佛说腹中女经, 佛就腹中女, 佛无垢贤女经, 佛乳光佛经, 佛子经, 经, 4
+./selected_images/qldzjpng_038_582.png, 佛说转女身经, 佛转女身经, 到宋实三藏法师云摩蜜多第四罐
+./selected_images/qldzjpng_038_602.png, 文殊师利问菩提经丶伽耶山顶经, 文殊师利问菩提经姚秦三藏法师摩罗什初罐, 伽耶山顶经, 元魏天竺三藏法师菩提留支第二罐
+./selected_images/qldzjpng_038_620.png, 佛象头精舍经丶大乘伽耶山顶经, 大秉伽耶山顶经, 佛象头精舍经隋天竺沙门毗尼多流支第三罐, 唐南天竺国, 三藏法师菩提流志等第四
+./selected_images/qldzjpng_038_638.png, 佛说决定持经丶佛说佛经, 佛佛经, 佛决定总持经 西晋三藏法师竺法护, 元魏天竺三藏法师菩提留支
+./selected_images/qldzjpng_038_654.png, 大方等大云经, 大方等大云经, 北凉天竺三藏法师鬓无
+./selected_images/qldzjpng_038_742.png, 如来庄严智慧光明人一切佛境界经, 如来庄骰智慧光明人一切佛境界经, 元魏三藏法师墨摩流支罐
+./selected_images/qldzjpng_039_009.png, 深密解脱经, 深密解脱经, 元魏天竺三藏法师菩提留支罐
+./selected_images/qldzjpng_039_079.png, 解深密经, 解深客经, 唐三藏法师玄奘奉韶
+./selected_images/qldzjpng_039_173.png, 佛说济方等学经, 佛济方等学经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_039_189.png, 大乘方广总持经, 大乘方广总持经, 隋天竺三藏毗尼多流支课
+./selected_images/qldzjpng_039_203.png, 太子须大擎经, 太子大攀经, 乞伏秦三藏法师稞垩坠
+./selected_images/qldzjpng_039_221.png, 佛说如来智印经, 佛如来智印经, 僧枯失人名开元附刘宋录
+./selected_images/qldzjpng_039_241.png, 佛说慧印三昧经, 佛慧印三昧经, 吴月支国优婆塞支谦
+./selected_images/qldzjpng_039_263.png, 佛说无极宝三昧经, 佛无极宝三昧经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_039_295.png, 宝如来三昧经, 宝如来三味经, 东晋西域三藏抵多蜜
+./selected_images/qldzjpng_039_333.png, 无上依经, 无上依经, 梁天竺三藏法师真
+./selected_images/qldzjpng_039_363.png, 佛未曾有经丶佛说甚希有经丶佛说如来师子吼经、佛说大方广师子吼经, 佛大方广师子吼经, 佛甚希有经, 佛未曾有, 经, 唐中天竺沙门地婆, 元魏天竺三藏法师陀扇多罐, 唐三藏法师玄汽泰, 后, 漠, 华失, 等率敕罐, 师, 韶鑫, 名糕
+./selected_images/qldzjpng_039_383.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_039_407.png, 佛最无比经丶佛前世三转经, 佛前世三转经, 佛最无比经, 磨三藏法师玄奘奉韶, 西晋沙门稞法炬初罐
+./selected_images/qldzjpng_039_423.png, 佛说旅色女经丶佛说阿世王受决经、探苹道王上佛授决经丶佛说正恭敬经, 佛正恭敬经, 探华达王上佛授决经, 佛阿阁世王受决经, 佛银色女经, 东晋西域沙阿竺鬓无兰罐, 西晋三藏沙门释法炬罐, 元魏天竺三藏佛陀扇多罐, 元魏天竺三藏法师佛佗扇多罐
+./selected_images/qldzjpng_039_443.png, 佛说善恭敬经丶大乘功德经丶妙法决定业障经, 大秉功德经, 佛善恭敬经, 隋天竺三藏法师阁那崛多, 唐至相寺沙门智严罐, 唐三藏法师玄奘奉韶罐
+./selected_images/qldzjpng_039_459.png, 佛贝多树下思惟十二因缘经丶佛豫起圣道经丶佛稻程经, 佛稻经, 佛冢起圣道经, 失人名附东晋录罐, 唐三藏法师玄奘奉韶, 支
+./selected_images/qldzjpng_039_475.png, 佛说了本生死经丶佛说自哲三昧经丶如来独证自折二三昧经, 佛自哲三味经, 佛了本生死经, 后汉安息国沙门安世高选, 吴月支国优婆塞支谦
+./selected_images/qldzjpng_039_495.png, 佛转有经丶大方等修多罗王经丶佛说文殊师利巡行经丶佛说文殊尸利行经, 佛文殊尸利行经, 佛说文殊师利巡行经元魏北天竺三藏法师菩提留支罐, 大方等修多罗王经元魏天竺三藏普提留支初, 佛转有经, 元魏三藏法师佛佗扇多泽, 隋天竺三藏法师阁那掘多罐
+./selected_images/qldzjpng_039_515.png, 大乘造像功德经, 大乘造像功德经, 唐于三藏法师提云般若等奉制
+./selected_images/qldzjpng_039_537.png, 八经同卷, 八经同卷
+./selected_images/qldzjpng_039_561.png, 八经同卷, 八经同卷
+./selected_images/qldzjpng_039_585.png, 佛观药王药上二菩经, 佛观药王药上二菩隆经, 刘宋西域三藏叠良耶舍杆
+./selected_images/qldzjpng_039_605.png, 佛说大孔雀王经, 佛大孔雀兄王经, 唐三藏法师羲净奉
+./selected_images/qldzjpng_039_661.png, 佛母大孔雀明王经, 佛母大孔雀明王经, 唐特进试鸿卿开府仪同三司戴国公赠司空益, 大正广智大兴善寺三藏沙门不空奉韶罐
+./selected_images/qldzjpng_039_717.png, 佛说孔雀王脱经, 佛孔雀王咒经, 梁扶南三藏法师僧伽婆罗罐
+./selected_images/qldzjpng_039_757.png, 佛说大孔雀王神咒经丶佛说大孔雀工杂神咒经, 佛大孔雀王离神咒经, 佛大孔雀王神咒经, 东晋西域沙门, 帛尸黎蜜多罗罐, 蜜多罗重
+./selected_images/qldzjpng_039_773.png, 大金色孔雀王咒经丶佛貌不空索咒经, 佛不空索, 大金色孔雀王咒经, 情天竺三藏法师那崛多等, 姚, 秦三藏法师摩罗什, 座
+./selected_images/qldzjpng_040_005.png, 不空霸索心脱王经, 不空索心咒王经, 唐, 天竺, 三藏宝思惟
+./selected_images/qldzjpng_040_039.png, 不空霜索陀罗尼经, 不空索佗罗尼经, 唐北天竺婆罗门李无葫
+./selected_images/qldzjpng_040_077.png, 不空霸索心经, 不空霸索心经, 唐南天竺三藏法师菩提流志奉韶罐
+./selected_images/qldzjpng_040_089.png, 不空霸索神叽心经, 不空缩索神咒心经, 唐三藏法师玄奘
+./selected_images/qldzjpng_040_103.png, 不空霸索神真言经, 不空索神变真言经, 唐南天竺三藏法师苦提流志奉
+./selected_images/qldzjpng_040_605.png, 千眼干臂观世音菩藤陀罗尼神蜕经, 千眼千臂观世音菩陀罗尼神咒经, 唐持寺三藏沙门智通
+./selected_images/qldzjpng_040_627.png, 千手干眼观世音菩萨姥陀罗尼身经, 千手千眼观世音菩姥陀罗尼身经, 唐南天竺三藏法师菩提流志罐
+./selected_images/qldzjpng_040_649.png, 十于平眼观世宫言障属人国渊照微人志心陀尼, 心陀罗尼经, 干手千眼观世音菩隧广大满无大悲, 唐西天竺沙门伽梵逹摩罐
+./selected_images/qldzjpng_040_673.png, 观自在菩隆如意心陀罗尼咒经, 观世音菩萨如意摩尼陀罗尼经唐北天竺三藏法师寳思惟, 观世音菩秘密藏神咒经, 唐干阁三藏宝又陀罐, 唐三法师羲净奉韶
+./selected_images/qldzjpng_040_693.png, 如意轮陀罗尼经, 如意轮陀罗尼经, 唐天竺三藏法师菩提流志
+./selected_images/qldzjpng_040_717.png, 观自在菩萨恒畴多喇随心陀罗尼经, 观自在菩萨恒多随心陀罗尼经, 唐大总持寺沙门智通罐
+./selected_images/qldzjpng_040_741.png, 请观世音菩萨消伏毒害陀罗尼咒经丶佛说十一面观世音神咒经, 佛十一面观世音神咒经, 请观世音菩蓬消伏毒害陀罗尼咒经, 宇文周世天竺三藏耶舍强多等舞, 东晋天竺居士竺鞭提
+./selected_images/qldzjpng_040_763.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_040_783.png, 人方广苔藏经中文殊师利根本…字陀罗尼法, 大方广菩萨藏经中文殊师利根本一字陀, 罗尼法, 唐天竺三藏寳思惟
+./selected_images/qldzjpng_041_020.png, 华稍陀罗尼神咒经丶师子峦迅菩萨所问经丶佛说华聚陀罗尼咒经丶六字咒王经丶六字神咒王经, 五经同卷
+./selected_images/qldzjpng_041_040.png, 梵女首意经丶有德女所问大乘经丶佛说七俱眠佛母心大准提随罗尼经丶佛说七俱眠佛母准提大明陋罗尼经, 佛七俱佛母心大准提怖罗尼经, 有德女所问大乘经, 梵女首意经, 唐南天竺国沙门菩提流志奉, 晋三巅法, 师竺法, 金, 婆, 制第三楼
+./selected_images/qldzjpng_041_070.png, 七俱眠佛母所说淮提陀罗尼经, 七俱胆佛母准提陀罗尼经, 唐特进试鸿卿大兴善寺三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_041_090.png, 种咒经丶佛顶药麟陀罐尼, 种种杂咒经, 佛顶尊胜陀罗尼经, 唐朝散郎杜行奉, 宇文周此天竺三藏阁那崛多罐, 制
+./selected_images/qldzjpng_041_106.png, 佛顶尊胜陀罗尼经丶佛说佛顶尊胜罗尼经, 佛佛顶尊胜陈罗尼经, 佛顶尊胜陀罗尼经, 周宾沙门佛陀波利奉韶选, 市, 奉
+./selected_images/qldzjpng_041_126.png, 最胜佛顶陀罗尼除业障经、佛顶最胜陀罗尼经, 佛顶最胜陀罗尼经, 最胜佛顶陀罗尼净除业障经, 高肆, 墨
+./selected_images/qldzjpng_041_148.png, 舍利弗陈罗尼经丶佛说无量门破魔腌罗尼经, 佛无量门破魔怖罗尼经, 舍利弗阵罗尼经, 宋西域沙门功德直共青阳, 梁扶南国三藏法师僧伽婆罗
+./selected_images/qldzjpng_041_168.png, 佛说无量门微密持经丶佛说出生无景门持经, 佛出生无量门持经, 佛说无量门微密持经, 束晋天竺三, 藏法师佛佗跋陀暴
+./selected_images/qldzjpng_041_182.png, 阿潍陀目依尼杂陀尼经、阿鞋陀目体尼离陀经, 阿鞋陀目尼雕陀经, 阿难陀目传尼离陀尼经, 元魏比天竺三藏佛陀扇多
+./selected_images/qldzjpng_041_204.png, 佛说一向出生菩经, 佛一向出生菩经, 隋北天竺三藏法师那崛多罐
+./selected_images/qldzjpng_041_218.png, 出生无门陀罗尼、经胜幢臂印陀罗尼经、妙臂印幢陀罗尼经, 妙臂印幢佗罗尼经, 胜幢臂印陀罗尼经, 出生无透门陀罗尼经, 法, .交笑素, 吧
+./selected_images/qldzjpng_041_238.png, 佛脱陀罗尼集经, 佛陀罗尼集经, 唐中天竺三藏大德阿地瞿多罐
+./selected_images/qldzjpng_041_564.png, 佛持句神咒经丶佛说陀郑尼钵经丶束方最胜灯王如来助护持世间神咒经丶如来方便菩巧咒经, 如来方便善巧咒, 佛就陀尼钵翘, 经, 东英, 月支化娄塞支苏, 阁那, 薛
+./selected_images/qldzjpng_041_592.png, 虚空藏菩萨问七佛陀罗尼叽经, 虚空藏菩萨问七佛陀罗尼咒经, 失人名今附梁录
+./selected_images/qldzjpng_041_604.png, 善法方便陀罗尼咒经丶金刷秘密善门陀罗尼经、命法门神咒经, 护命法门神咒经, 金剧秘密善门坨罗尼经, 善法方便陀罗尼经, 天竺, 三藏法师菩提, 东, 晋, 流, 锅
+./selected_images/qldzjpng_041_626.png, 金刷场陀罗尼经, 金刚场陀罗尼经, 隋北天竺三藏法师阁那崛多罐
+./selected_images/qldzjpng_041_640.png, 金刷上味陀罗尼经, 金刚上味陀罗尼经, 元魏北天竺三藏法师佛陀扇多罐
+./selected_images/qldzjpng_041_654.png, 佛说无崖际总持法门经, 佛无崖际持法门经, 乞伏泰沙门释圣坠
+./selected_images/qldzjpng_041_670.png, 胜所间一切褚法人无命法门陀罗尼经, 高齐河南居士万天懿
+./selected_images/qldzjpng_042_005.png, 十住秸经, 十住断结经, 姚, 秦, 沙, 门竺佛念, 选
+./selected_images/qldzjpng_042_249.png, 菩萨道树经丶菩藤生地经, 菩萨生地经, 菩蓬道树经, 吴月支优婆寒支嫌, 期
+./selected_images/qldzjpng_042_267.png, 佛说孛经, 佛孛经, 其
+./selected_images/qldzjpng_042_287.png, 无垢净光大陀罗尼经, 无垢净光大陀罗尼经, 唐天竺沙门弥陀山等
+./selected_images/qldzjpng_042_301.png, 成具光明定意经, 成具光明定意经, 后漠西域, 三藏沙门支曜
+./selected_images/qldzjpng_042_323.png, 摩摩耶经, 摩河摩耶经, 萧, 齐, 沙门云景
+./selected_images/qldzjpng_042_351.png, 诺德福田经丶大方等如来藏经, 大方等如来藏经, 德福田经, 东晋北天竺三藏法师佛佗跋佗罗, 西晋沙门法立法炬同译
+./selected_images/qldzjpng_042_369.png, 佛说宝网经, 佛宝网经, 西晋三藏竺法莲
+./selected_images/qldzjpng_042_395.png, 佛悦内蓝百管行、佛锐温字洗浴案智经, 佛菩谨行五十缘身经, 佛就温室洗浴僧经, 佛菩隧修行经, 佛就内藏百宝经, 、佛苕薛行五十线身经丶佛说菩藤修行经, 后汉安息三藏, 西晋三藏法师, 西晋河内沙门白法, 役汉月支三藏, 支妻迦, 竺法护, 安世, 宜, 祖, 善
+./selected_images/qldzjpng_042_419.png, 佛说金色王经丶佛语法门经丶佛说不可得经, 佛四不可得经, 佛金色王经, 佛语法门经, 西晋三藏竺法舞, 元魏北天竺三藏法师菩提阁支初选, 元魏婆罗门瞿墨般若流支罐, 门
+./selected_images/qldzjpng_042_437.png, 须真天子经, 真天子经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_042_481.png, 佛脱观普员菩行法经, 佛观普贤菩萨行法经, 刘宋圜宾三藏法师云摩蜜多
+./selected_images/qldzjpng_042_497.png, 观世音菩得大势菩藤受记经, 观世音苦得大菩受记经, 刘宋黄龙沙门释鬓无竭
+./selected_images/qldzjpng_042_511.png, 不思光菩藤所说经, 不思光菩所经, 姚, 秦三藏摩罗什
+./selected_images/qldzjpng_042_525.png, 超白明三昧经, 超日明三经, 西晋清信士最承远
+./selected_images/qldzjpng_042_573.png, 除恐炎患经, 除恐患经, 乞伏秦沙门释圣坠
+./selected_images/qldzjpng_042_591.png, 佛说首楞崴三麻经, 佛首楞最三昧经
+./selected_images/qldzjpng_042_641.png, 未有因缘经, 未曾有因绿经, 兰齐三藏沙门群鬓景
+./selected_images/qldzjpng_042_681.png, 佛要集经, 佛要集经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_042_723.png, 扬佛功德经, 扬诺佛功德经, 元魏西域三藏吉迦夜共墨罹罐
+./selected_images/qldzjpng_043_005.png, 臀劫经, 贤劫经, 西胥三藏竺法护罐
+./selected_images/qldzjpng_043_191.png, 佛说佛名经, 佛佛名经, 元魏北天竺三藏法师菩提留支
+./selected_images/qldzjpng_043_411.png, 过去庄严劫千佛名经, 开元拾遗附梁录
+./selected_images/qldzjpng_043_431.png, 现在贤劫干佛名经
+./selected_images/qldzjpng_043_447.png, 未来星宿劫千佛名经, 开元拾遗附梁录
+./selected_images/qldzjpng_043_467.png, 五千五百佛名神蜕除障减罪经, 五千五百佛名神咒除障减罪经, 隋三藏崛多共多等罐
+./selected_images/qldzjpng_043_581.png, 力庄鬣三经, 力庄最三昧经, 隋三藏法师那连提耶舍
+./selected_images/qldzjpng_043_627.png, 佛说不思讲功德诺佛所护念经, 阁那崛多
+./selected_images/qldzjpng_043_673.png, 演道俗业经, 演道俗业经, 乞伏秦沙门圣坚
+./selected_images/qldzjpng_043_685.png, 佛说长者法志妻经丶佛说灌罗国经丶佛说十吉祥经丶佛说长者女提遮师子晓了经丶佛说一切治光明仙人慈心因不贫肉经, 佛一切智光明仙人慈心因缘不食肉, 佛十吉祥经, 佛罗国经, 佛就长者法志妻经, 意什, 经, 开元附秦录失师名, 出安公凉, 东医, 土
+./selected_images/qldzjpng_043_705.png, 大方等陀罗尼经, 大方等陀罗尼经, 北沙门稞法众罐
+./selected_images/qldzjpng_044_003.png, 大法炬陀罗尼经, 大法炬陀罗尼经, 隋北天竺三藏法师阁那崛多等
+./selected_images/qldzjpng_044_283.png, 大威德陀罗尼经, 大威德陀罗尼经, 隋北天竺三藏法师阁那崛多等
+./selected_images/qldzjpng_044_535.png, 观察法行经, 观察诺法行经, 隋北天竺三藏法师阁那崛多
+./selected_images/qldzjpng_044_599.png, 佛说华手经, 佛华手经
+./selected_images/qldzjpng_045_117.png, 法集经, 法集经, 元魏三藏法师提留支选
+./selected_images/qldzjpng_045_237.png, 大方广觉修多罗了义经, 大方广觉修多罗了义经, 唐, 圜宾沙门佛陀多罗罐
+./selected_images/qldzjpng_045_269.png, 佛施灯功德经, 佛施灯功德经, 高齐北天竺三藏法师那连提黎耶舍
+./selected_images/qldzjpng_045_285.png, 金刚三昧经, 金刚三味经, 出北凉录失罐师名
+./selected_images/qldzjpng_045_313.png, 观佛三昧海经, 观佛三昧海经, 东晋天竺三藏法师佛陀跋佗罗
+./selected_images/qldzjpng_045_463.png, 大方便佛报恩经, 大方便佛报恩经, 失人名出后汉录
+./selected_images/qldzjpng_045_583.png, 菩藤本行经, 菩萨本行经, 失人名附东晋录
+./selected_images/qldzjpng_045_629.png, 菩萨处胎经, 菩处胎经, 姚秦三藏法师竺佛念课
+./selected_images/qldzjpng_045_745.png, 央掘魔罗经, 央掘魔罗经, 刘宋天丝三藏法师求那跋陀罗
+./selected_images/qldzjpng_045_827.png, 菩萨内习六波罗蟹经、菩萨投身铜虎起塔因缘经, 菩隆投身饲虎起塔因绿经, 菩萨内习六波罗蜜经, t口, 惊, 汉, 髙, 沙, 门, 佛, 法, 舞, 盛
+./selected_images/qldzjpng_046_003.png, 三昧弘道广显定意经, 三味弘道广显定意经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_046_057.png, 佛说明度五十校计经, 佛明度五十校计经, 后汉安息三藏法师安世高
+./selected_images/qldzjpng_046_097.png, 无所有菩经, 无所有苦经, 隋天竺三藏阁那崛多等罐
+./selected_images/qldzjpng_046_161.png, 大法鼓经, 大法鼓经, 刘宋天竺三藏求那跋陀罗
+./selected_images/qldzjpng_046_193.png, 月上女经, 月上女经, 隋三藏法师阁那崛多
+./selected_images/qldzjpng_046_221.png, 文殊师利问经, 文殊师利问经, 梁扶南三藏僧伽婆罗
+./selected_images/qldzjpng_046_271.png, 大方腐如来秘密藏经, 大方广如来秘密藏经, 矢罐师名附二秦录
+./selected_images/qldzjpng_046_295.png, 大天密藏经, 大乘密经, 唐中天竺国沙门地婆罗奉韶
+./selected_images/qldzjpng_046_355.png, 菩璎珞经, 菩璎珞经, 姚秦沙门竺佛念
+./selected_images/qldzjpng_047_009.png, 大佛慎郊来密因修鑫了孟菩醛万行首楞服经, 大佛顶如来密因修证了义菩万行首, 楞经卷第一, 菩萨成弟于前正楼大夫同中书门下平章市清河房融笔受, 唐天竺沙门般刺密带局真国沙门伽辉迎语
+./selected_images/qldzjpng_047_143.png, 七佛所脱神况经, 失师名开元附东厝录
+./selected_images/qldzjpng_047_213.png, 文殊师利霞藏陀罗尼经, 唐天竺三藏法师菩提流志
+./selected_images/qldzjpng_047_241.png, 僧伽咤经, 僧伽咤经, 元魏南天竺优禅尼国王子月婆首那罐
+./selected_images/qldzjpng_047_293.png, 出生菩提心经丶佛佛印三味经, 出生菩提心经
+./selected_images/qldzjpng_047_311.png, 佛说十二头陀经、佛说树提伽经丶佛说法常住经丶佛脱长壳王经, 佛长寿王经, 佛法常住经, 佛树提伽经, 1+, 刘宋天竺三藏求那跋陀罗, 开元绿云安祐二亚失泽师今附西晋第二出, 出安祐二绿开元绿云今附西晋, 刘宋天竺三藏求那跋呛罗
+./selected_images/qldzjpng_047_327.png, 佛说海龙王经, 佛海龙王经, 西晋三藏法师竺法
+./selected_images/qldzjpng_047_401.png, 佛为海龙王说法印经、佛说右遗佛塔功德经丶佛说妙色王囚缘经丶师子蒸默裟王新肉经, 佛妙色王因绿经, 师子素默姿王断肉经, 佛右遗佛塔功德经, 佛为海龙王就法印经, 唐, 三藏法师羲净奉制, Gi, ·制
+./selected_images/qldzjpng_047_413.png, 佛差摩婆帝受记经丶佛说师子庄懒王菩醛请问经, 佛师子庄最王菩请问经, 佛差摩婆帝受记经, 唐中天竺三藏法师那提, 元魏
+./selected_images/qldzjpng_047_423.png, 中除经, 中阴经, 姚秦源州沙门竺佛念罐
+./selected_images/qldzjpng_047_455.png, 占察菩恶业报经, 占察善恶业报经, 隋外国沙门菩提登
+./selected_images/qldzjpng_047_485.png, 佛说莲华面经, 隋三藏法师那连提耶舍
+./selected_images/qldzjpng_047_509.png, 佛三品弟子经丶佛说四盐经丶佛说当来矮经丶过去佛分卫经, 过去佛分卫经, 佛当来变经, 佛四经上干, 佛就三品弟子经有好学吴月支优婆塞支, 西晋三藏法师芝法护
+./selected_images/qldzjpng_047_521.png, 佛说法减盖经丶佛说琵深大迥向经丶天王太子辟罗经, 佛甚深大向经, 佛法减尽经, 天王太子辟罗经, 僧祐录失人今附刘宋, 刘宋失师名出祐公录, 安公开中具纯今附秦银
+./selected_images/qldzjpng_047_531.png, 大吉义神咒经, 大吉义神咒经, 元, 魏昭玄统沙门释云醒
+./selected_images/qldzjpng_047_571.png, 十三经同卷, 十三经同卷
+./selected_images/qldzjpng_047_599.png, 八经同卷, 八经同卷
+./selected_images/qldzjpng_047_621.png, 请佛集会陀罹尼经、佛说智炬陀罗尼经、佛说路求即得大自在陀耀尼神咒经, 佛随求即得大自在陀罗尼神咒经, 佛智炬陀罗尼经, 佛集会陀罗尼经, 唐三藏法师提云般若等奉制罐, 唐天竺三藏法师宝恩惟罐, 唐三藏法师提云般若等奉制
+./selected_images/qldzjpng_047_643.png, 佛一切法功德庄王经、佛说拔除紫障咒王经、佛说菁夜经、佛说虚空藏菩簿能满诸顾最麟心陀罗尼求删持法, 佛拔除罪障咒王经, 佛一切法功德庄王经, 佛虚空藏菩灌能满最滕心陀罗尼求闻持法, 佛善夜经, 唐三藏法师羲净奉, 唐, 唐三戴法师输波迎, 唐三藏法师羲净奉, 藏, 义, 制, 制, 净
+./selected_images/qldzjpng_047_667.png, 佛说佛地径丶百干印驼罗尼经丶庄嫩王陀罗尼咒经丶香王菩陀罗尼咒经, 香王苦萨陀罗尼咒经, 庄严王陀罗尼咒经, 百千印陀罗尼经, 佛佛地经, 三藏法师羲净奉, 唐, 于三藏宝叉鞋陀, 三藏法师玄奉, 制罐, 制
+./selected_images/qldzjpng_047_683.png, 优婆夷净行法门经, 优婆夷净行法门经, 出安公凉土录失师名
+./selected_images/qldzjpng_047_715.png, 法最上王经, 诺法最上王经, 隋天竺三藏法师那崛多等
+./selected_images/qldzjpng_047_739.png, 文殊师利设理媒行，出管木越行, 出菩灌本起经, 文殊师利般涅经, 西晋优婆塞, 道真
+./selected_images/qldzjpng_047_755.png, 佛说贤首经、千佛囚绿经丶八大人经, 八大人觉经, 佛贤首经, 佛因绿级, 乞伏秦沙门圣坠
+./selected_images/qldzjpng_048_027.png, 佛说魔逆经, 佛魔逆经, 西晋三藏法, 师世法·
+./selected_images/qldzjpng_048_047.png, 佛说颊咤和罗所问德光太子经, 佛咤和罗所问德光太子经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_048_067.png, 商主天子所问经, 商主天子所问经, 隋北天竺三藏法师阁那崛多等
+./selected_images/qldzjpng_048_101.png, 寂照神三摩地经, 寂照神三摩地经, 唐三藏法师玄奉韶
+./selected_images/qldzjpng_048_115.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_048_141.png, 金剐光焰止凤雨陀罗尼经, 金刚光焰止风雨陀罗尼经, 唐南天竺三藏法师菩提流志罐
+./selected_images/qldzjpng_048_163.png, 大毗监遮那成佛神加持经, 大毗卢遮那成佛神变加持经, 唐中天竺三藏输波迦罗共沙门一行
+./selected_images/qldzjpng_048_301.png, 苏婆呼童子经, 苏婆呼童子经, 唐中天竺三藏输波迦罗共泌门一行舞
+./selected_images/qldzjpng_048_349.png, 字佛顶轮王经, 字佛顶轮王经, 唐三藏法师菩提流志奉韶, 经
+./selected_images/qldzjpng_048_465.png, 苏悉地羯罗经, 苏悉地羯罗经, 唐中天竺三藏法师瀚迎波罗选
+./selected_images/qldzjpng_048_551.png, 金刚顶瑜伽中路出念经, 金刚顶瑜伽中略出念经, 唐南天竺三藏法师金刚智
+./selected_images/qldzjpng_048_641.png, 虞大宝壤阁住秘密陀罗尼经, 广大寳楼阁善住秘密陀罗尼经, 唐三藏法师菩提流志奉韶杆
+./selected_images/qldzjpng_048_685.png, 牟梨曼陀缩咒行, 牟梨曼陀罗咒经, 失人名闲元, 附梁
+./selected_images/qldzjpng_048_741.png, 大陀罗尼末法中一字心咒经磨地印土迎湿密猛国三戴窦思惟, 佛甘露经陀罗尼, 佛救面然思陀罗尼神咒经唐干関三藏宝又难陀罐, 佛说救面然解鬼陀罹尼神咒行丶佛说甘露经陀罗尼丶大陀罗尼末法中一字心咒经, 磨于开三藏宝又韭龙锋
+./selected_images/qldzjpng_049_003.png, 中阿含经, 中阿舍经, 东晋厕三藏瞿僧伽提婆
+./selected_images/qldzjpng_050_351.png, 增阿含经, 增壹阿含经, 符泰三藏曼摩提
+./selected_images/qldzjpng_051_397.png, 杂阿含经, 杂阿含经, 宋天竺三藏求那跋陀罗
+./selected_images/qldzjpng_052_621.png, 佛说长阿含经, 佛长阿舍经, 姚秦三藏法师佛陀耶舍共竺佛念罐
+./selected_images/qldzjpng_053_321.png, 别罐杂阿含经, 别杂阿舍经, 失罐人名附秦录
+./selected_images/qldzjpng_053_631.png, 杂阿含经, 杂阿舍经, 失, 人名, 附吴魏二录
+./selected_images/qldzjpng_053_653.png, 长阿含十报法经, 长阿含十报法经, 后汉三藏法师安世高
+./selected_images/qldzjpng_053_675.png, 起世因本经, 起世因本经, 隋三藏法师达摩笈多等
+./selected_images/qldzjpng_054_089.png, 起世经, 起世经, 隋三藏法师阁那崛多等
+./selected_images/qldzjpng_054_245.png, 佛说楼炭经, 佛楼炭经, 西晋三藏法师法立共法炬罐
+./selected_images/qldzjpng_054_343.png, 佛般泥经, 佛般泥经, 西
+./selected_images/qldzjpng_054_389.png, 佛说人本欲生经, 佛人本欲生经, 后汉安息国沙门安世高罐
+./selected_images/qldzjpng_054_405.png, 佛梵网六十二见经丶佛说尸迦罗越六方礼经, 佛尸迦罗越六方礼经, 佛梵网六十二见经, 吴月支, 汉, 优婆塞支, 门
+./selected_images/qldzjpng_054_431.png, 中本起经, 中本起经, 后漠三藏法师西域鬓果共康孟罐
+./selected_images/qldzjpng_054_479.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_054_503.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_054_529.png, 佛说求欲经·佛说受崴经·佛说梵志计水净经, 佛受经, 佛求欲经, 西, 西, 胥三藏, 沙门, 法师竺法, 法, 东
+./selected_images/qldzjpng_054_547.png, 佛说伏蛭经丶佛说魔嬉乱经丶佛说弊魔试目连经, 佛弊魔试目连经兵月支婆塞支, 佛魔娆乳经, 佛伏媛经, 西晋沙门法罐, 失, 人名今附, 后汉, 八绿
+./selected_images/qldzjpng_054_565.png, 佛说泥型经丶佛说俊婆夷监舍迦经丶佛说薇经, 佛齐经, 佛优婆夷舍迎经失, 佛泥经, 吴, 东晋三藏竺鬓, 优, 婆, 名, 4, 未
+./selected_images/qldzjpng_054_585.png, 佛说苦阴经丶佛苦险因事经丶佛说稞摩男本经, 佛摩男本经吴月支优婆塞支谦, 佛苦阴因事经西, 佛苦阴经, 失人名在后漠录, 沙, 罐
+./selected_images/qldzjpng_054_601.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_054_627.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_054_651.png, 佛说梵志阿经, 佛梵志阿经, 吴月支国优婆塞支
+./selected_images/qldzjpng_054_665.png, 佛说寂志果经, 佛寂志果经, 东晋沙门竺叠, 无兰
+./selected_images/qldzjpng_054_683.png, 四经同卷, 四经同卷
+./selected_images/qldzjpng_054_713.png, 七经同卷, 七经同卷
+./selected_images/qldzjpng_055_009.png, 佛为黄竹围老婆罗门学经失, 佛须达经, 三归五戒慈心默离功德经, 三归五戒慈心离功德经丶佛说须速经丶佛篇黄竹国老婆罗门说学经丶佛说梵魔喻经, 佛梵魔喻经, 前齐天竺三藏求, 失, 月, 支, 人, 优, 名, 付, 办, 附, 让
+./selected_images/qldzjpng_055_029.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_055_053.png, 佛说波斯匿王太后崩土身经丶须摩提女经, 摩提女经吴月支优婆塞支, 佛波斯匿王太后崩土垒身经, 西, 晋三藏法师法炬罐
+./selected_images/qldzjpng_055_073.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_055_097.png, 佛说丝崛经丶佛说力士移山经丶佛说四未曾有法经、佛舍利弗目连逝四衢经, 佛舍利弗目建连游四衢经后, 佛力士移山经, 佛四未曾有法经, 佛鸯崛髻经, 西鲁三藏法师, 汉, 康孟, 竺法护
+./selected_images/qldzjpng_055_115.png, 九经同卷, 九经同卷
+./selected_images/qldzjpng_055_141.png, 阿鞋问事佛吉凶经丶慢法经丶阿难分别经丶五母子经, 阿难分别, 五, 典子, 经
+./selected_images/qldzjpng_055_157.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_055_177.png, 摩登伽经, 摩登伽经, 吴沙门竺律炎共便婆塞支谦
+./selected_images/qldzjpng_055_209.png, 舍头经, 舍头辣经, 西晋三藏竺法护罐
+./selected_images/qldzjpng_055_237.png, 治禅病秘要经, 治禅病秘要经, 北浣世安阳侯沮渠京声谨
+./selected_images/qldzjpng_055_267.png, 佛说七处三观经, 佛七虞三观经, 后汉三藏法师安世高
+./selected_images/qldzjpng_055_291.png, 佛说大爱道般涅繁经, 阿那邪郎化七子经, 佛母般泥经, 佛圣法印, 拉, 西
+./selected_images/qldzjpng_055_309.png, 十一经同卷, 十一经同卷
+./selected_images/qldzjpng_055_331.png, 修行本起经, 修行本起经, 后汉沙门竺大力头康孟祥
+./selected_images/qldzjpng_055_367.png, 太子瑞应本起经, 太子瑞应本起经, 吴月支优婆塞支
+./selected_images/qldzjpng_055_397.png, 过去现在因果经, 过去现在因果经, 宋三藏求那跋陀罗
+./selected_images/qldzjpng_055_489.png, 佛说奈女耆域因缘经, 佛奈女者域因绿经, 后汉安世高罐
+./selected_images/qldzjpng_055_507.png, 佛说奈女耆婆经, 佛奈女耆婆经, 后漠安, 世, 高
+./selected_images/qldzjpng_055_521.png, 佛说生经, 佛就生经, 西晋三藏竺读护罐
+./selected_images/qldzjpng_055_627.png, 萍沙王五麒经丶琉璃王经丶佛说海八德经丶佛说法海经, 佛法海经, 佛诊海八德经, 瑙璃王经, 浒沙王五经, 姚秦三藏法师摩罗什, 西晋沙门释法炬罐, 晋三藏竺法, 吴月支优婆塞支
+./selected_images/qldzjpng_055_647.png, 佛说义足经, 佛义足经, 吴优婆塞支谦
+./selected_images/qldzjpng_055_691.png, 鬼间目连经丶杂藏经丶鬼报应经, 思问目连经, 里报应经, 杂藏经, 后漠安息三藏安世高罐, 东, 榉法, 墨, 绿
+./selected_images/qldzjpng_055_711.png, 佛说四十二章经, 佛四十二章经, 宋, 真, 共竺法兰奉韶罐, 白王馆
+./selected_images/qldzjpng_056_003.png, 正法念处经, 正法念处经, 元魏婆罗门瞿鬓般若流支
+./selected_images/qldzjpng_057_249.png, 佛本行集经, 佛本行集经, 隋天竺三藏法师阁那崛多舞
+./selected_images/qldzjpng_058_143.png, 佛说大安股守意经, 佛大安般守意经, 后漠安息国三藏法师安世高
+./selected_images/qldzjpng_058_175.png, 佛说马意经，禅行法想经, 禅行法想经, 佛属意经, 后汉安息国三藏安世高
+./selected_images/qldzjpng_058_191.png, 佛说处处经, 佛处处经, 沙
+./selected_images/qldzjpng_058_207.png, 佛说分别善恶所起经, 佛分别善恶所起经, 门
+./selected_images/qldzjpng_058_225.png, 七经同卷, 七经同卷
+./selected_images/qldzjpng_058_247.png, 摩提长者经、长者惯三处经、键陀国工经、阿鞋四事经, 阿难四事经, 键陀国王经, 长者懊三处经, 摩提长者经, 后, 汉, 爱, 优, 婆, 藏, 藏, 姿, 法, 安, 支, 中
+./selected_images/qldzjpng_058_263.png, 分别经、未生怨经丶四径丶制狗经, 四经, 制狗, 未生怨经, 分别经, 经, 吴月支国优婆塞支, 吴月支国优婆塞支, 吴月支国优婆塞支, 西晋三藏法师竺法, 护, 谦, 粮, 谦
+./selected_images/qldzjpng_058_279.png, 八经同卷, 八经同卷
+./selected_images/qldzjpng_058_305.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_058_329.png, 本事经, 唐三藏法师玄奘奉韶
+./selected_images/qldzjpng_058_429.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_058_457.png, 八经同卷, 八经同卷
+./selected_images/qldzjpng_058_481.png, 五百弟子:自本起经, 五百弟子自本起经, 三
+./selected_images/qldzjpng_058_509.png, 佛说五苦章句经丶佛脱意经丶佛脱净饭王般涅繁经, 佛净饭王般涅经, 佛坠意经, 佛五苦章句经, 宋居士通渠京, 后, 东, 晋三藏竺鬓无兰, 汉三藏安世高
+./selected_images/qldzjpng_058_563.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_058_587.png, 佛说十二品生死证、佛说轮抄五道罪福报雕经丶佛说五无返复经丶佛说佛大惯大经, 佛五无返复经, 佛轮转五道罪福报经刘宋三藏法师求那跋陀罗, 佛十二品生死经, 佛, 佛大僧大经, 刘宋三藏法师求那跋陀罗, 宋, 居, 居, 1., 渠, 渠, 京, 声, 罐
+./selected_images/qldzjpng_058_607.png, 七经同卷
+./selected_images/qldzjpng_058_633.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_058_655.png, 八经同卷, 八经同卷
+./selected_images/qldzjpng_058_677.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_058_701.png, 八江同卷, 八经同卷
+./selected_images/qldzjpng_058_725.png, 禅秘要法经, 禅秘要法经, 姚秦三藏法师摩罗什等罐
+./selected_images/qldzjpng_058_805.png, 阴持入经, 阴持入经, 后汉安息国三藏安世高罐
+./selected_images/qldzjpng_058_827.png, 佛因豫僧护经, 佛因绿僧护经, 人名今附东晋录
+./selected_images/qldzjpng_059_012.png, 佛说大乘庄严宝王经, 佛大秉庄宝王经, 宋西天中印度惹烟默耀国三藏沙门天息彼拳韶罐
+./selected_images/qldzjpng_059_066.png, 分别菩恶报应经, 分别善恶报应经, 宋西天三藏朝散大犬试鸿卿明教大师天总炎奉韶蒂
+./selected_images/qldzjpng_059_086.png, 佛说守大千国土经, 佛守护大千国土经, 农国三藏傅法大师施奉韶
+./selected_images/qldzjpng_059_132.png, 大方腐持宝光明经, 大方广总持宝光明经, 宋西天中|印度摩伽陀国三藏傅教大师法天奉韶选
+./selected_images/qldzjpng_059_198.png, 佛说大乘圣无里专舒决定光明王如来陀罗尼经, 佛大乘圣吉祥持世陀罗尼经, 佛大秉圣无量寿决定光明王如来佗罗尼经, 宋西天中印度摩伽陀国三藏传教大师法天奉, 宋西天中印度摩所陀国三藏傅教大师法天奉, 1, 雅尼经, 品
+./selected_images/qldzjpng_059_214.png, 佛大乘日子王所问经丶佛说金耀童子经, 佛金耀童子经, 佛大秉日子王所问经, 宋西天, 宋西天中印度摩伽陀国三藏傅教大师法天奉韶, 藏, 月
+./selected_images/qldzjpng_059_232.png, 顶放无垢光明入普门观察一切如来心陀罗尼经, 陀罗尼经, 佛顶放无垢光明入普门观察一切如来心, 宋西天经三藏朝散大天试鸿脏少即傅法大师施旧奉超
+./selected_images/qldzjpng_059_248.png, 佛说楼岗正法材路站, 佛, 望, 佛, 佛, 虚空藏菩陀罗尼经, 锐, 大垂善见化文, 支, 井, 殊, 1, 大丽大陀罗尼程, 1, 1
+./selected_images/qldzjpng_059_274.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_059_296.png, 一切如来正法秘密印心陀罗尼经, 息除中天陀罗尼经, 佛行有为经, 大寒林圣擎陀罗尼经宋西天中印度摩伽国三, 除中天陀籍尼经, 宋西天北印度点填装园三, 宋西天中印皮季加陀国三, 一切如来正法秘密策印心陀籍尼经, 宋西天北印度点, 藏傅法大师赐紫苑美, 1ta, 赐, -11, 招, 品
+./selected_images/qldzjpng_059_316.png, 妙法圣念处经, 妙法圣念处经, 宋西天中即度摩伽吃圈那烟昨寺主藏傅救大师肠紫沙门法天奉韶罐
+./selected_images/qldzjpng_059_386.png, 佛大迦叶问大宝精正法经, 佛大迦叶问大寳正法经, 宋西天经三藏朝散大夫试火得法大师拖护春
+./selected_images/qldzjpng_059_432.png, 嗟机襄法天子受三归依维免恶道经、佛说较量嘉命经, 佛较量寿命经, 嗟鬟法天子受三归依获免恶道经, 宋西天中印度三藏传教大师法天奉, 宋西天中印度三藏明教大师天息淡奉
+./selected_images/qldzjpng_059_464.png, 法集名数经丶圣多雅菩藤一百八名陀罗尼经, 圣多罗菩一百八名佗罗尼经, 宋三藏傅教法师法天奉
+./selected_images/qldzjpng_059_478.png, 十二豫生祥瑞经, 十二绿生祥瑞经, 宋西天三藏朝散大夫沸脏少卿儒法大师施护奉韶罐
+./selected_images/qldzjpng_059_494.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_059_514.png, 腾军化世百喻伽他经丶六道伽陀经, 六道伽陀经, 胜军化世百喻伽他经, 宋西天中印度惹烟默耀国三藏明教大师天息K奉罐, 宋三藏傅教大师紫沙门法天奉韶
+./selected_images/qldzjpng_059_530.png, 妙臂菩萨所问经, 妙臂菩隆所问经, 宋西天三藏朝散大夫试鸿腹火卿传散大师法天奉韶醒
+./selected_images/qldzjpng_059_574.png, 七经同卷, 七经同卷
+./selected_images/qldzjpng_059_596.png, 七经同卷, 七经同卷
+./selected_images/qldzjpng_059_626.png, 佛说大自在天子因地经、佛说宝生陀罗尼经丶佛说十号经丶佛写沙伽罗龙工所说大乘法经, 佛万伽罗龙王所大秉法经宋西天三藏朗散大瞧少价教大施, 佛宝生陀罗尼经, 佛大自在天子因地经, 佛十号经, 宋三藏法师天恩见奉韶罐, 宋西天三藏朝散大夫试胆少卿傅法大师苑护奉, 宋西天三藏朝散大天武腹少卿传教六师施奉韶
+./selected_images/qldzjpng_059_646.png, 佛说晟菩萨陀雅尼经, 广大莲华庄严曼挚罗一切罪佗罗尼经, 佛普臀菩隆陀罗尼经宋三藏大师法天奉韶罐, 大金刮妙, 鸿胜少卿, 大薄华庄散曼紧雅减一切罪陀罗尼经, 传教大师施护承, 韶选, 语
+./selected_images/qldzjpng_059_668.png, 佛说大摩里支菩萨经, 佛大摩里支菩经, 宋西天三藏朝散大夫鸿腹少郡明教大师天总父奉韶选
+./selected_images/qldzjpng_059_740.png, 佛说末利支提婆华蟹经丶佛说摩利支天经, 佛摩利支天经, 佛末利支提婆萍经, 唐三藏沙门, 唐三藏沙门大广智不空奉韶罐, 大广智不空奉, 韶绎
+./selected_images/qldzjpng_059_756.png, 佛说摩利支天陀罗尼咒经, 佛毗沙门天王经朱朝散大试冯脏卿明教大师法天素·诏, 佛长者施报经宋朝散大夫滤腹卿明教大师法天奉韶, 佛摩利支天陀罗尼咒经失辞人各开元附梁录, !, 佛说毗沙门天王经
+./selected_images/qldzjpng_059_774.png, 毗婆尸佛经, 毗婆尸佛经, 宋朝散大夫试鸿卿明教大师法天奉韶选
+./selected_images/qldzjpng_059_790.png, 佛说大三摩惹经丶佛说月光菩经, 佛普贤曼罗经宋西天三藏, 佛大三摩惹经宋西天三戴朝, 佛月光菩萨经宋西天三藏朝散, 佛说曼擎罗经, 明教大师法天奉韶, 御博法大师施, 大师法天丰韶篷
+./selected_images/qldzjpng_060_035.png, 罗许摩帝经, 众许摩帝经, 宋西天罐经三藏朝散大夫钱鸿膛少卿明教大师法贤奉韶
+./selected_images/qldzjpng_060_167.png, 佛说七佛经丶佛说解经丶佛说福昭般若波雅蜜经, 佛照般若波罗蜜经, 佛解经宋,三藏法师法天奉, 佛七佛经宋朝散大夫试脏卿明教大师法天奉，韶, 宋西天三藏朝散, 队大夫试鸿腹卿传法大师施护泰, 韶
+./selected_images/qldzjpng_060_191.png, 佛说大乘无量寿庄严经, 佛大秉无量寿庄严经, 宋西天三藏朝散大夫试光禄卿明教大师法贤奉韶选
+./selected_images/qldzjpng_060_219.png, 佛母宝德藏般若波罗蜜经, 佛母宝德藏般若波罗蜜经, 长E, 天译经三曦朗散大关就光禄卿明教大师法贺奉招
+./selected_images/qldzjpng_060_245.png, 佛说帝程股若波雅蜜多·心经丶佛说佛经、, 佛大金刚香陀罗尼经, 大乘舍黎娑携摩经, 佛诺佛经, 佛帝释般若波罗蜜多心经宋西天三朝散类试胜传法大师, 宋西天三藏朝散大夫试冯脏傅法大师施护奉, 宋西天三藏朝散大鸿胜娜传法大师施奉, 、大乘舍黎沙护经丶佛脱大金哪香驼雅尼经
+./selected_images/qldzjpng_060_263.png, 最上大乘金刷大教寳王经, 最上大乘金刚大教寳王经, 宋朝散大夫试冯卿明教大师法天奉韶
+./selected_images/qldzjpng_060_283.png, 三径同卷, 三经同卷
+./selected_images/qldzjpng_060_299.png, 佛国尊者所问大乘经, 佛护国尊者所问大乘经, 宋西天绍三藏朝散大夫冯腹卿传法大师施护奉韶醒
+./selected_images/qldzjpng_060_339.png, 十经同卷, 十经同卷
+./selected_images/qldzjpng_060_369.png, 十二经同卷, 十二经同卷
+./selected_images/qldzjpng_060_391.png, 佛说大爱陀罗尼经、佛说阿罗汉具德, 佛说尊那经, 佛阿罗默具德经, 佛大爱陀罗尼经, 宋天辞经三臧, 宋西天辞经三藏相, 宋西天经三藏朝散大夫, 丶佛说八大器塔名号经丶佛说尊那经, 蹦散大试光禄卸明救大师法贤奉韶, 天武光标无明教大师法贤奉韶, 天试光禄御明教大师法贤奉韶
+./selected_images/qldzjpng_060_409.png, 佛说婆沙维王径丶佛人仙经丶佛说蕉城喻经丶佛说信解智力经, 佛售城喻经, 佛人仙经, 佛频婆姿罗王经, 佛, 信解智力经, 乐西天篷, 月, 1
+./selected_images/qldzjpng_060_433.png, 大正句王经, 大正句王经, 宋西天三藏朝散大夫试光禄卿明教大师法贤奉，韶罐
+./selected_images/qldzjpng_060_449.png, 七径同卷, 七经同卷
+./selected_images/qldzjpng_060_469.png, 五咒一经同卷, 五呢一经同卷
+./selected_images/qldzjpng_060_487.png, 五运同卷, 五经同卷
+./selected_images/qldzjpng_060_511.png, 佛说解夏经丶佛说帝程所问经, 佛帝绎所问经宋三藏法师法贤奉 韶
+./selected_images/qldzjpng_060_527.png, 佛说未会有正法经, 佛未曾有正法经, 宋西天三藏朝奉大夫鸿卿傅教大师法天奉，韶罐
+./selected_images/qldzjpng_060_589.png, 佛脱大方广善巧方便经, 佛大方广善巧方便经, 宋酉天三藏朝奉大夫光禄御傅法大师施护奉韶
+./selected_images/qldzjpng_060_629.png, 佛母出生三法藏般若波罗蜜多经, 佛母出生三法藏般若波罗蜜多经, 宋北天竺三藏朝奉大尖试光禄卿传法大师施莲奉韶
+./selected_images/qldzjpng_061_104.png, 佛说分别布施经、佛貌分别缘生经丶佛说法印经丶佛大生我经, 佛大生义经, 佛说法印经, 佛分别缘生经, 佛分别布施经, 宋西天螺经三戴朝奉大天鸿卿傅教大师法天牵罐
+./selected_images/qldzjpng_061_120.png, 佛脱发菩提心破猪质经、佛就职佛母敢若波罗蜜多经, 佛圣佛母般若波罗蜜多经, 佛发菩提心破魔经, 宋西天三朝奉大夫试光禄卿传法大施奉韶
+./selected_images/qldzjpng_061_138.png, 佛说大乘不思满神通境界经, 佛大乘不思神通境界经, 宋西天三藏朝奉大夫光禄卿傅法大师莲奉韶罐
+./selected_images/qldzjpng_061_166.png, 佛说给孤长者女得度因缘经, 佛给孤长者女得度因经, 宋西天三藏朝翠大夫光禄蜘傅法大师施汉奉, 韶罐
+./selected_images/qldzjpng_061_192.png, 佛说大集法门经, 佛大集法门经, 宋西天三藏朝奉大夫试光禄蜘傅法大师施护奉
+./selected_images/qldzjpng_061_212.png, 佛说光明童子因橡经, 佛光明童子因缘经, 宋西天三藏朝奉大夫试光禄卿传法大师花奉，韶
+./selected_images/qldzjpng_061_246.png, 佛宝带驼罗尼经、佛说金身陀罗尼径、佛入无分别法门经、佛说浮意优婆寒所问经, 佛就净意优婆塞所问经, 佛就入无分别法门经, 佛金身陀罗尼经, 佛宝带陀罗尼经, 宋西天三藏朝奉大夫鼠光禄卿傅法大师·施来韶声
+./selected_images/qldzjpng_061_268.png, 佛兑全司, 佛息静因缘经, 佛金刚场庄最般若波罗蜜多教中一分, 11, 若波耀帘多教中一分丶佛欢息静因绿径, 宋西天三藏朝奉大夫试光标抑傅法大师槐复来韶
+./selected_images/qldzjpng_061_286.png, 佛说初分说经, 佛初分经, 宋西天三藏朝奉大夫光禄卿传淡大师拖奉韶
+./selected_images/qldzjpng_061_304.png, 佛说无思授所问大乘证丶佛说月谕经丶佛说瑟喻经丶佛锐顶王喻经, 佛灌顶王喻经, 佛设医喻经, 佛说月喻经, 佛无畏授所问大乘经, 宋西天三藏朝奉大夫试光禄御傅法大师施馥来韶华
+./selected_images/qldzjpng_061_326.png, 佛说尼拘陀梵志经, 佛尼拘陀梵志经, 宋西天三藏朝翠大天试光禄传法大师施护奉韶
+./selected_images/qldzjpng_061_340.png, 佛说白衣金幢二婆霖门缘起经, 佛白衣金幢二婆罗门绿起经, 宋西天三藏朝秦大夫试光禄卿傅法大师施护奉韶选
+./selected_images/qldzjpng_061_358.png, 佛福力太子因缘经, 佛福力太子因绿经, 宋西天三藏朝奉大夫战光禄卿传法大师施护奉韶选
+./selected_images/qldzjpng_061_380.png, 佛说身毛喜经, 佛身毛喜经, 宋三藏朝散大夫试漓压卿光梵大师性净等奉韶罩
+./selected_images/qldzjpng_061_408.png, 大乘本生心地观经, 大秉本生心地观经, 唐宾国三藏般若等群
+./selected_images/qldzjpng_061_528.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_061_574.png, 佛说除盖障菩藤所问经, 佛除蓄障菩萨所问经, 宋西天三藏朝散大夫试鸿脏少卿傅贺大师法旧等奉韶罐
+./selected_images/qldzjpng_061_718.png, 仁王鑫国般若波罗蜜多经, 仁王护国般若波罗蜜多经, 唐三藏沙门大广智不空
+./selected_images/qldzjpng_062_008.png, 四经同卷, 四经同卷
+./selected_images/qldzjpng_062_030.png, 大币轮请雨, 大云轮请雨经, 唐特进试鸿胜卿三藏沙门大智不空奉韶
+./selected_images/qldzjpng_062_054.png, 大乘密器社, 大乘密严经, 唐三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_062_116.png, 佛说大集会正法经, 佛大集会正法经, 宋西天三藏
+./selected_images/qldzjpng_062_176.png, 菜衣观自在菩经丶毗沙门天王经丶文殊问经字母品, 文殊问经字母品, 毗沙门天王经, 衣观自在菩经, 唐特进试鸿腱咖三沙门大皙不空奉韶罐
+./selected_images/qldzjpng_062_194.png, 海意菩所问净印法门经, 海意普萨所问净印法门经, 惟净共法护义韶
+./selected_images/qldzjpng_062_334.png, 佛脱如幻三摩地无量印法门经, 佛说如幻三摩地无量印法门经, 宋西天三藏朝奉大试光禄卿儒法大师施护等奉，韶罐
+./selected_images/qldzjpng_062_356.png, 守护国界主陀罗尼经, 守护国界主陀罗尼经, 唐刷宾国三藏般若等
+./selected_images/qldzjpng_062_508.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_062_526.png, 瑜伽集要救阿陀罗尼焰口仪轨经, 瑜伽集要救阿难佗罗尼焰口仪轨经, 唐三藏沙门不空奉
+./selected_images/qldzjpng_062_540.png, 佛说战喻汇, 圣观自在菩不空王秘密心陀罗尼经, 佛蝶喻经, 、圣戳自在菩葬不空王秘密心陀霜尼证, 宋西天三戴朝奉, 本大夫试光福卿传法大师施等奉超
+./selected_images/qldzjpng_062_554.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_062_576.png, 佛说大固婆罗门缘起经, 佛大坚固婆罗门绿起经, 宋西天三藏朝奉大天试光禄卿傅法大师施护等奉韶
+./selected_images/qldzjpng_062_596.png, 佛说巨力长者所问大乘经, 佛巨力长者所问大乘经, 宋西天同经寳法大师赐紫沙门智吉样等奉韶锋
+./selected_images/qldzjpng_062_618.png, 石江同卷, 五经同卷
+./selected_images/qldzjpng_062_636.png, 佛脱一孵尊陀罗尼经丶金刚摧碎陀罗尼丶不空胃索毗虚遮那佛大灌顶真言经, 不空胃索毗遮那佛大灌顶真言经, 金刚摧碎陀罗尼, 佛一髻尊佗罗尼经唐北天竺三簸沙门大智不空奉, 唐特进拭鸿嘘烟北天竺三藏沙门大广智不空本韶, 宋契丹国师中天竺摩蝎陀国三藏法师慈贤，
+./selected_images/qldzjpng_062_656.png, 地藏菩萨本经, 地藏菩本经, 唐于阁国三藏沙门宝叉陀罐
+./selected_images/qldzjpng_062_694.png, 大乘理趣六波罗蜜多经, 大乘理趣六波罗蜜多经, 唐蜀宾国三藏般若奉韶选
+./selected_images/qldzjpng_063_084.png, 佛说大乘菩隧藏正法经, 佛大乘菩藏正法经, 宋西天三藏朝散六夫试光禄卿传梵大师法护等奉韶罐
+./selected_images/qldzjpng_063_398.png, 五经同卷, 五经同卷
+./selected_images/qldzjpng_063_416.png, 佛说顶生王因缘经, 佛顶生王因绿经, 宋西天三藏朝奉大夫光禄卿傅法大师施瑾等奉韶
+./selected_images/qldzjpng_063_458.png, 佛说大乘随转宣诸法经, 佛大秉随转宣法经, 宋明教辨才法师充罐经三沙门貂德等奉韶
+./selected_images/qldzjpng_063_486.png, 佛说大乘入储佛境界智光明庄微, 佛大秉入佛境界智光明庄严经, 宋西天三藏朝散大夫试光禄卿傅苑大师法馥等奉韶, 经
+./selected_images/qldzjpng_063_522.png, 佛说大乘智印经, 佛大秉智印经, 西天三藏寳法大师赐紫沙门智吉祥等奉
+./selected_images/qldzjpng_063_562.png, 佛说法乘义决定经, 佛法秉义决定经, 西天三藏明困妙善普滨法师金鲶持等奉, 韶群
+./selected_images/qldzjpng_063_584.png, 佛脱大白伞益持陀罗尼经, 佛大白伞盖持陀罗尼经, 元天丝俊辫大
+./selected_images/qldzjpng_063_596.png, 佛就一切如尔百增人乘悦造三味大教工经, 佛一切如来真实摄大乘现证三大教, 王经, 宋西天三藏朝奉大夫光禄蝴傅法大师施护奉韶
+./selected_images/qldzjpng_064_123.png, 一切如来大秘密王未曾有最上微妙大曼努罗经, 一切如来大秘密王未曾有最上微妙大曼攀罗经
+./selected_images/qldzjpng_064_175.png, 出生一切如来法眼照大力明王经, 出生一切如来法眼照大力明王经, 宋西天中印度摩伽陀国三藏赐紫沙门法韶
+./selected_images/qldzjpng_064_195.png, 金刚顶一切如来页节摄大乘现盐大教王经, 金刚顶一切如来具实摄大垂现证大教王经, 唐特试瞌卿三藏沙门大广智不空奉，韶
+./selected_images/qldzjpng_064_241.png, 阿喇多罗陀罗尼阿唔力经, 阿别多罗陀罗尼阿噜力经, 唐特进试膛卿三藏沙门大广背不空奉，
+./selected_images/qldzjpng_064_265.png, 佛说瑜伽大教王经, 佛瑜伽大教王经, 宋天三藏朝散, 天试光桥师明教大师法贤奉韶
+./selected_images/qldzjpng_064_337.png, 字奇特佛顶经, 一字奇特佛顶经, 唐特进试鸿脏卿三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_064_405.png, 菩提场所一字顶轮王经, 菩提场所一字顶轮王经, 唐特进试鸿腹三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_064_485.png, 菩提场庄橄陀罗尼经, 菩提场庄陀罗尼经, 唐特造试腹卿三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_064_507.png, 佛说秘密相经, 佛秘密相经, 宋西天三藏朝奉大夫战光禄卿傅法大师施等奉韶选
+./selected_images/qldzjpng_064_529.png, 佛说一切如来金剧三业最上秘密大教王经, 佛一切如来金刚三业最上秘密大教王经, 宋西天三藏朝奉大夫试卿传法大师施奉韶舞
+./selected_images/qldzjpng_064_635.png, 大宦属博楼阁善住秘密陀罗尼经, 大寳广博楼阁善住秘密陀罗尼经, 唐特进试鸿脏卿三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_064_681.png, 佛说秘密三味大教王经, 佛秘密三昧大教王经, 宋西天三藏朝奉大尖光棉蜘傅法大师施等奉韶罐
+./selected_images/qldzjpng_065_005.png, 佛说无二平等最上瑜伽大教王经, 佛无二平等最上瑜伽大教王经, 宋西天三藏, 武光禄卿传法大师施奉韶
+./selected_images/qldzjpng_065_071.png, 佛说金刚手苦隔降伏一切部多人教于经, 佛金刚手菩萨降伏一切部多大教王经, 木, 卿传教大师法天奉
+./selected_images/qldzjpng_065_117.png, 圣妙吉祥真名经, 圣妙吉祥真实名经, 元经律习容教土脊主崖沙门释智
+./selected_images/qldzjpng_065_145.png, 四经同卷, 四经同卷
+./selected_images/qldzjpng_065_169.png, 佛说最上根木大梁金到不尘二味大教王经, 佛最上根本大乐金刚不空三昧大教王经, 宋西天三藏朝奉大夫光禄卿明载大师法贤奉铝
+./selected_images/qldzjpng_065_269.png, 佛说最上秘密那繁天经, 佛最上秘密那天经, 宋西天三藏朝散大夫试光禄娜明教大师法贤奉韶
+./selected_images/qldzjpng_065_299.png, 金刚峰楼阁一切瑜伽瑜抵经, 金刚楼阁一切瑜伽瑜祗经, 唐南天竺国三藏沙门金刚智
+./selected_images/qldzjpng_065_333.png, 佛说妙吉祥最胜根本大教经, 佛妙吉祥最胜根本大教经, 宋西天三藏朝散大光禄卿明教大师法贤奉韶, 11
+./selected_images/qldzjpng_065_371.png, 妙吉祥平等秘密最上观门大教王经, 妙吉祥平等秘密最上观门大教王经, 宋契丹国师中天竺摩竭陀国三藏法师慈质
+./selected_images/qldzjpng_065_443.png, 普偏光明焰蟹清净机盛如意宝印心无能胜大明王大髓求陀罗尼经, 胜大明王大随求陀罗尼经, 普光明焰清净盛如意宝印心无能, 唐北天竺三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_065_477.png, 佛说如来不思诚秘密大乘经, 佛如来不思秘密大乘经, 宋西天三藏朝散大天默光禄娜传梵大师法灌莓奉韶罐
+./selected_images/qldzjpng_065_623.png, 大乘瑜伽金飘性海曼殊室利干臂千钵大教王经, 大教王经, 大秉瑜伽金刚性海曼殊室利干臂千, 唐三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_066_007.png, 佛说圣宝藏神仪轨经, 佛圣宝藏神仪轨经, 宋西天三藏朝, 朝散大夫鸿脏少傅救大师法天奉韶选
+./selected_images/qldzjpng_066_023.png, 佛说宝藏神大明曼罗仪轨经, 佛寳藏神大明曼罗仪轨经, 东西天三藏朝散大夫试鸿少锄传敬大师法天奉韶
+./selected_images/qldzjpng_066_041.png, 金别恐怖集会方腐轨缓观自在菩三世最腾心明王经, 最胜心明王经, 金刚恐怖集会方广轨仪观自在菩三世, 三璇沙门大广智不空奉韶
+./selected_images/qldzjpng_066_065.png, 全酬恐怖集会力品轨仪貌自在善际三世最膝心明王大威力总福瑟明王经, 最胜心明王大威力瑟摩明王经, 金刚恐怖集会方广轨仪观自在菩萨三世, 北天竺国三藏阿质逹霞
+./selected_images/qldzjpng_066_113.png, 佛说大乘观想”罗净恶趣经, 佛大乘观想曼罗净恶趣经, 宋西天三藏朝散大夫试光禄卿明教大师法质泰韶
+./selected_images/qldzjpng_066_137.png, 佛大方隔曼殊室利经观自在多灌苦轨微、佛，切佛相大教士经观自有顾念确轨经, 佛大方广曼殊室利经观自在多罗菩仪轨经, 佛一切佛相鹰大教王经圣观自在菩隆念仪轨经, 宋西天三藏朝散大天光禄卿明教大师法贤奉韶, 唐特进卿三藏沙门大广智不空奉韶露
+./selected_images/qldzjpng_066_181.png, 十一面观自在菩心密言念仪轨经, 一面观自在菩萨心密言念仪轨经, 唐特进试卿大寺, 沙门大广智不空奉韶
+./selected_images/qldzjpng_066_205.png, 大方广菩藤藏文殊师利根本仪轨经, 大方广菩藏文殊师利根本仪轨经, 宋西天三藏朝散大试鸿腹少卿明教大命天意奉超肆
+./selected_images/qldzjpng_066_399.png, 佛说扫明藏瑜伽人效弯那兴降人明成就低轨经, 佛持明藏瑜伽大教尊那菩大明成就仪轨经, 宋西天三藏朝散大夫试光禄卿明教大师法贤奉部
+./selected_images/qldzjpng_066_443.png, 佛金副香菩鞋大明成就仪轨经, 佛金刚香菩大明成就仪轨经, 宋西天三藏朝散大天试鸿脏卿傅法大师施护春郎
+./selected_images/qldzjpng_066_481.png, 金刚埋那夜迦天成就仪轨经, 金刚萨那夜迦天成就仪轨经, 宋西天三藏朝散大夫鸿腾卿傅法大师法贤奉韶
+./selected_images/qldzjpng_066_527.png, 佛说大悲空智金剧大教王仪轨经, 佛大悲空智金刚大教王仪轨经, 宋西天三载银
+./selected_images/qldzjpng_066_569.png, 佛幻化纲大瑜伽教十岔怒明王大明观想仪轨经, 想仪轨经, 佛幻化大瑜伽教十念怒明王大明观, 宋西天三藏朝散大夫试光禄御明教大师法贤承韶罐
+./selected_images/qldzjpng_066_585.png, 佛妙吉祥瑜伽大教金酬陪罗轮观想成就仪轨经, 佛妙吉祥瑜伽大教金刚陪畴轮观想成就仪轨经, 宋西天三藏朝散大夫试光操卿明教大师法贤奉韶选
+./selected_images/qldzjpng_066_599.png, 底哩三昧耶不勒尊威怒王使者念法, 底哩三昧耶不动尊威怒王使者念法, 唐三藏沙门大广智不空罐
+./selected_images/qldzjpng_066_617.png, 圣迦栀忿怒金刚童子菩成就仪轨经, 圣迦杞念怒金刚童子菩萨成就仪轨经, 唐三藏沙门大广智不空
+./selected_images/qldzjpng_066_653.png, 伽陀一证三经同卷, 一伽陀一三经同卷
+./selected_images/qldzjpng_066_667.png, 四谱一伽陀同卷, 四一伽陀同卷
+./selected_images/qldzjpng_066_691.png, 四二同卷, 四二颂同卷
+./selected_images/qldzjpng_067_006.png, 佛脱菩藤内戒经, 佛菩萨内戒经, 刘, 宋三藏求那跋摩
+./selected_images/qldzjpng_067_024.png, 菩睦优婆塞五戒威煲经, 菩萨优婆塞王戒威仪经, 刘宋嚣宾三藏法师求那跋摩
+./selected_images/qldzjpng_067_040.png, 佛说文殊师利净律经, 佛文殊师利净律经, 西晋三藏法师竺法护初
+./selected_images/qldzjpng_067_054.png, 菩藤善戒经, 菩隆善戒经, 刘宋宾三藏法师求那跋摩等
+./selected_images/qldzjpng_067_228.png, 范喔地持径, 菩萨地持经, 北, 北凉天竺三藏法师鬟无麟
+./selected_images/qldzjpng_067_400.png, 佛锐梵网经, 佛梵网经, 姚, 泰三藏法师摩罗什
+./selected_images/qldzjpng_067_436.png, 修婆塞戒经, 优婆塞戒经, 北凉天竺三藏法师景无识
+./selected_images/qldzjpng_067_560.png, 寂调音新尚酒, 寂调音所问经, 刘宋沙门稞法海第四
+./selected_images/qldzjpng_067_578.png, 大乘三聚戴悔经, 大乘三聚悔经, 隋天竺三藏関那崛多及多等选
+./selected_images/qldzjpng_067_592.png, 佛就文殊海过经, 佛文殊悔过经, 西晋三藏法师竺法护
+./selected_images/qldzjpng_067_614.png, 音障堰珞本业经, 菩璎珞本业经, 姚秦州沙门竺佛念彻
+./selected_images/qldzjpng_067_652.png, 佛说受十落戒经, 佛受十善戒经, 后漠失人名开元录拾遗单本
+./selected_images/qldzjpng_067_670.png, 佛说净业障经, 佛净业障经, 失舞师名开元附秦, 绿
+./selected_images/qldzjpng_067_686.png, 佛藏经, 佛藏经, 姚秦三藏法师摩罗什
+./selected_images/qldzjpng_067_772.png, 菩鞋戒本
+./selected_images/qldzjpng_067_792.png, 佛说法律三味红丶佛说十兴业道经, 佛十善业道经唐于圆三藏法师实叉难防罐, 佛法律三昧经兵月氏优婆塞支嫌
+./selected_images/qldzjpng_067_806.png, 消净毗尼方演经, 清净毗尼方广经, 姚秦三藏法师摩罗什第三
+./selected_images/qldzjpng_067_838.png, 舍利弗悔过经, 菩隆受斋经, 三曼陀飚陀罗菩萨经, 后漠安息国沙门安世高, 西晋清信士, 道真舞
+./selected_images/qldzjpng_067_854.png, 佛阿毗经, 佛阿毗云经, 陈三藏法师真蒂
+./selected_images/qldzjpng_067_898.png, 解脱戒本经, 解胧戒本经, 元魏婆罗门瞿叠般若流支耦
+./selected_images/qldzjpng_067_922.png, 优波潍问经, 优波离问经, 刘宋求那跋摩
+./selected_images/qldzjpng_067_946.png, 根本说一切有部戒经, 根本一切有部戒经, 唐三戴法师义净率, 制选
+./selected_images/qldzjpng_067_972.png, 四科同卷, 四经同卷
+./selected_images/qldzjpng_068_003.png, 十律, 十律, 姚秦三藏弗若多罗共三藏鸠摩罗什
+./selected_images/qldzjpng_069_413.png, 尼羯磨, 尼羯磨, 唐西太原寺沙门怀素集
+./selected_images/qldzjpng_069_489.png, 四分律藏, 四分律藏, 姚秦三藏佛陀耶舍共竺佛念
+./selected_images/qldzjpng_071_003.png, 根本说一切有部毗余耶, 根本一切有部毗奈耶, 唐三藏法师义净奉制
+./selected_images/qldzjpng_071_825.png, 摩僧抵律, 摩僧祈律, 东晋三藏法师佛陀跋陀罗共沙门法
+./selected_images/qldzjpng_073_003.png, 晏无德部四分律删补随机羯磨, 无德部四分律删补随机羯磨, 唐京兆崇羲寺沙门道宣撰
+./selected_images/qldzjpng_073_075.png, 根本一切有部毗奈耶杂事, 根本一切有部毗栾耶事, 唐三藏法师羲净奉制罐
+./selected_images/qldzjpng_073_689.png, 衢沙塞部和醚五分律, 弥沙塞部和五分律, 宋三藏佛陀什共竺道生罐
+./selected_images/qldzjpng_074_395.png, 根本说一切有部毗奈耶破僧事, 根本一切有部毗奈耶破僧事, 唐三藏法师义净奉制杆
+./selected_images/qldzjpng_074_709.png, 根本说一切有部芯鳄尼毗奈耶, 根本一切有部芯缀尼毗奈耶, 唐三藏法师羲净奉, 制
+./selected_images/qldzjpng_075_173.png, 善见毗婆沙律, 善见毗婆沙律, 萧齐外国沙门僧, 伽跋佗罗罐
+./selected_images/qldzjpng_075_523.png, 大比丘三千威仪, 大比丘三千威仪, 后汉安息国三藏安世高僧祐云失群人名
+./selected_images/qldzjpng_075_563.png, 根本萨婆多部律摄, 根本隧婆多部律摄, 唐三藏法师羲净奉制
+./selected_images/qldzjpng_075_815.png, 四分僧羯磨, 四分僧羯磨, 唐西太原寺沙门怀素集
+./selected_images/qldzjpng_076_004.png, 四分比丘尼羯磨法, 四分比丘尼羯磨法, 刘宋圜实三藏求那跋摩罐
+./selected_images/qldzjpng_076_026.png, 戒因豫经, 戒因缘经, 姚秦三藏竺佛念
+./selected_images/qldzjpng_076_174.png, 根本说一切有部百一羯磨, 根本一切有部百一羯磨, 唐三藏法师义净奉制
+./selected_images/qldzjpng_076_306.png, 婆多部毗尼摩得勒伽, 隧婆多部昆尼摩得勒伽, 宋三藏法师僧伽跋摩
+./selected_images/qldzjpng_076_484.png, 根本说一切存部尼陀那, 根本一切有部尼陀那, 唐三藏法师义净奉制罐
+./selected_images/qldzjpng_076_548.png, 根本说一, 一切有部日得迦, 根本一切有部目得迦, 三藏法师羲净奉制罐
+./selected_images/qldzjpng_076_610.png, 隧波多昆尼里比婆沙, 萨婆多毗尼毗婆泌, 失, 人, 名, 今附三秦, 录
+./selected_images/qldzjpng_076_772.png, 独波多田比尼昆比波沙, 续灌婆多毗尼毗婆沙, 失辞人名今附三秦录
+./selected_images/qldzjpng_076_792.png, 出家授近国揭磨优箍, 出家授近圆羯磨仪, 元, 帝师芯缀拔合思巴集
+./selected_images/qldzjpng_076_824.png, 毗尼母, 毗尼毋, 失罐人名今附秦录
+./selected_images/qldzjpng_077_125.png, 一一趟同卷, 二一同卷
+./selected_images/qldzjpng_077_151.png, 根本说一切有部昆奈耶, 根本一切有部毗奈耶, 唐三藏义净奉制罐
+./selected_images/qldzjpng_077_239.png, 十踊律毗尼序, 十律毗尼序, 东晋三藏甲摩罗叉续罐
+./selected_images/qldzjpng_077_315.png, 沙弥十戒法并威仪, 沙弥十戒法并威仪, 失罐人名今附东晋录
+./selected_images/qldzjpng_077_337.png, 羯磨, 羯磨, 曹, 魏, 沙门集
+./selected_images/qldzjpng_077_379.png, 佛大爱道此丘尼经, 佛就大爱道比丘尼经, 北, 名
+./selected_images/qldzjpng_077_409.png, 佛说目连问戒律中五百轻重事经, 佛目连问戒律中五百轻重事经, 夫, 人名今附东晋录
+./selected_images/qldzjpng_077_445.png, 根本说一切有部蕊缀尼戒经, 根本就一切有部芯蜀尼戒经, 唐三藏法师羲浮奉
+./selected_images/qldzjpng_077_477.png, 比丘尼价抵律波罗捉木叉戒经, 比丘尼僧祗律波罗提木叉戒经, 东晋平阳沙门法颗共觉贤
+./selected_images/qldzjpng_077_503.png, 沙弥尼戒经丶舍利弗间经, 舍利弗问经, 沙弥尼戒经, 东晋失人名, 失罐人名
+./selected_images/qldzjpng_077_519.png, 沙塞羯磨本, 弥沙塞羯磨本, 唐大开业寺沙门爱同绿五分羯磨
+./selected_images/qldzjpng_077_559.png, 四分戒本, 四分戒本, 唐西太原寺沙门怀素依律集出, 姚, 秦, 佛, 舍
+./selected_images/qldzjpng_077_605.png, 四分比丘尼戒本, 四分比丘尼戒本, 唐西太原寺沙门怀素依律集出
+./selected_images/qldzjpng_077_635.png, 五分戒本, 五分戒本, 宋罚宾三藏佛陀什等
+./selected_images/qldzjpng_077_653.png, 五分比丘尼戒本, 五分比丘尼戒本, 梁建初寺沙门辉, 明徽集
+./selected_images/qldzjpng_077_681.png, 波罗提木叉偕抵戒本, 波罗提木叉僧抵戒本, 东天竺三藏佛陀跋陀罗选
+./selected_images/qldzjpng_077_703.png, 十律比丘戒本, 十律比红戒本, 姚秦三藏鸠摩罗什
+./selected_images/qldzjpng_077_729.png, 十律比丘尼戒本, 十律比丘尼戒本, 宋长干寺沙门法集, 出
+./selected_images/qldzjpng_077_757.png, 大沙门百一羯磨法, 大沙门百一羯磨法, 失人名今附宋录
+./selected_images/qldzjpng_077_779.png, 晏无德律部杂羯, 云无德律部杂羯磨, 前, 魏天竺三藏康僧铁
+./selected_images/qldzjpng_077_815.png, 沙酒鼓丶沙疆尼器残文, 沙弥尼离戒文, 失人名
+./selected_images/qldzjpng_077_829.png, 十踊羯磨比丘要用, 十羯磨比丘要用, 刘宋释僧骤依律, 撰出
+./selected_images/qldzjpng_078_003.png, 金刷般若波罗蜜经, 金刚般若波罗蜜经, 隋南天竺三藏法师逹摩岌多，
+./selected_images/qldzjpng_078_047.png, 金刚般若波罗蜜经, 金刷般若波罗蜜经, 元魏三藏法师菩提留支奉, 韶选
+./selected_images/qldzjpng_078_095.png, 大智度, 大智度, 姚秦三藏法师摩罗什
+./selected_images/qldzjpng_080_411.png, 瑜伽师地, 瑜伽师地, 唐三藏沙门玄奘奉韶罐
+./selected_images/qldzjpng_082_483.png, 摄大乘释, 摄大乘绎, 唐三藏法师立奘奉制
+./selected_images/qldzjpng_083_003.png, 大乘程, 摄大乘, HLL, 竺三藏, 逹, 摩笈多罐
+./selected_images/qldzjpng_083_519.png, 无相思霆丶观所缘、观所缘缘选, 无相思压, 观所缘绿选, 观所缘缘, 唐三藏法师羲净奉制, 唐三藏法师玄奘奉韶罐
+./selected_images/qldzjpng_083_537.png, 大乘五, 大乘广五蕴, 大乘广五蕴丶大乘互蕴舖, 中天竺国沙门地婆罗奉韶, 唐三藏法师玄奘奉韶
+./selected_images/qldzjpng_083_561.png, 显扬圣教, 显扬圣教, 唐三藏法师奘奉韶罐
+./selected_images/qldzjpng_084_067.png, 大乘阿眺蓬磨杂集编, 大秉阿毗连磨杂集, 唐三藏法师立类奉韶罐
+./selected_images/qldzjpng_084_301.png, 中, 中, 姚秦三藏法师摩罗什, 命
+./selected_images/qldzjpng_084_409.png, 住毗婆沙, 十住毗婆沙, 秦三藏法师摩罗什罐
+./selected_images/qldzjpng_084_689.png, 菩提资粮瀛, 菩提资粮, 隋, 天竺三藏逹摩笈多罐
+./selected_images/qldzjpng_084_763.png, 大庄经, 姚泰三藏法师摩罗什
+./selected_images/qldzjpng_085_156.png, 摄大乘, 摄大乘, 陈, 天竺, 111 , 藏, 真蒂
+./selected_images/qldzjpng_085_262.png, 般若灯, 般若灯, 唐天竺三藏法师波罗颇迎罗蜜多罗
+./selected_images/qldzjpng_085_514.png, 十二门, 十二门, 龙树苦萨造姚秦三藏法师摩罗什
+./selected_images/qldzjpng_085_542.png, 十八空, 十八空, 东, 天竺三藏法师真蒂
+./selected_images/qldzjpng_085_562.png, 百, 百, 姚秦三藏法师摩罗什, Hf
+./selected_images/qldzjpng_085_604.png, 广百本, 广百本, 唐三藏法师玄奘奉, 制课
+./selected_images/qldzjpng_085_616.png, 大乘庄严经, 大乘庄严经, 唐三藏波罗颇迦罗蜜多罗
+./selected_images/qldzjpng_086_003.png, 文殊师利菩问菩提经, 文殊师利菩萨问菩提经, 元魏三藏法师菩提留支
+./selected_images/qldzjpng_086_033.png, 金刚般若波罗蜜经破取著不壤假名, 金刚般若波罗蜜经破取著不假名, 中天竺国沙门地婆罗奉办罐
+./selected_images/qldzjpng_086_065.png, 胜思惟梵天所经, 胜思惟梵天所问经, 元魏天竺三藏法师苦提留支
+./selected_images/qldzjpng_086_121.png, 十地经, 十地经, 元魏三藏法师菩提留支奉, 韶舞
+./selected_images/qldzjpng_086_355.png, 佛地经, 佛地经, 唐三藏法师玄奘奉韶罐
+./selected_images/qldzjpng_086_467.png, 二具足经傻波提舍, 三具足经优波提舍, 元魏天竺三藏法师毗目智仙等罐
+./selected_images/qldzjpng_086_487.png, 成唯识, 成唯识, 唐, 三藏法师玄奘秦, 铭罐
+./selected_images/qldzjpng_086_655.png, 广百释, 广百稞, 唐三藏法师玄奘奉, 制
+./selected_images/qldzjpng_087_108.png, 大乘阿毗达磨集, 大乘阿毗达磨集, 唐, 石三藏法师立奘奉韶罐
+./selected_images/qldzjpng_087_198.png, 王法正理, 王法正理, 唐三藏法, 师玄美奉, 超
+./selected_images/qldzjpng_087_214.png, 瑜伽师地程, 瑜伽师地稞, 唐三藏法, 师玄奘奉, 韶莘
+./selected_images/qldzjpng_087_232.png, 显扬圣教, 扬圣教, 唐三藏法师玄奉, 韶
+./selected_images/qldzjpng_087_246.png, 弥勒菩萨所问经, 弥勒菩所问经轮, 元魏天竺三藏法师菩提留支罐
+./selected_images/qldzjpng_087_366.png, 无量经俊波提舍丶韩法轮经俊波提舍, 转法轮经优波提舍, 无量寿经优波提舍, 元魏天竺三藏法师菩提留支, 元魏天竺三藏法师毗目智仙等
+./selected_images/qldzjpng_087_384.png, 大般泾桑经、涅蝶经本有今无偶丶能薇金剧般若波罗蜜多经, 能断金刚般若波罗蜜多经, 涅繁经本有今无偈, 大般涅经, 陈世天竺三藏真于广州罐, 唐三藏法师羲净奉, 元魏沙门达磨菩提罐, 制
+./selected_images/qldzjpng_087_406.png, 遗教经, 教经, 陈天竺三藏法师真
+./selected_images/qldzjpng_087_432.png, 成唯识宝生编, 成唯识寳生, 唐, 三藏法
+./selected_images/qldzjpng_087_492.png, 四同卷, 四同卷
+./selected_images/qldzjpng_087_508.png, 唯识三十丶因明入正理丶显识, 显诚, 因明入正理, 唯识三十, 陈天丝三藏法师真蒂, 唐, 冏三藏, 法
+./selected_images/qldzjpng_087_532.png, 发菩提心舖, 发菩提心, 姚秦三藏法师摩罗什罐
+./selected_images/qldzjpng_087_560.png, 二无性篇, 三无性, 陈, 三藏具
+./selected_images/qldzjpng_087_674.png, 大乘成业, 大秉成业, 唐沙门立奘奉制
+./selected_images/qldzjpng_087_692.png, 业成就, 业成就, 元魏, 天竺三藏毗目智仙
+./selected_images/qldzjpng_087_706.png, 因明正理门, 因明正理门, 唐三藏法师羲净罐
+./selected_images/qldzjpng_087_724.png, 因明正理门本, 因明正理门本, 唐三藏法师玄奘
+./selected_images/qldzjpng_087_740.png, 止观门颂丶手杖丶缘生, 绿生, 止观门, 手杖, 唐三藏法师羲净奉制, 晴天竺三藏法师逹摩笈多罐
+./selected_images/qldzjpng_087_764.png, 取因假设丶观总相丶六门教授习定, 六门教授习定, 观总相, 取因假设, 唐三藏法师羲净奉制
+./selected_images/qldzjpng_087_784.png, 能金刚般若波罗蜜多经程, 能断金刚般苦波罗蜜多经稞, 唐三藏法师羲净奉制罐
+./selected_images/qldzjpng_088_009.png, 妙法莲华经优波提舍, 妙法莲华经优波提舍, 元魏北天竺三藏法师普提留支共沙门云林等罐
+./selected_images/qldzjpng_088_037.png, 妙法莲华经优波提舍, 妙法莲华经优波提舍, 元魏天竺三藏法师勒那摩提共僧朗等选
+./selected_images/qldzjpng_088_065.png, 大宝猜经, 大宝猜经, 元魏天竺三藏法师菩提留支罐
+./selected_images/qldzjpng_088_147.png, 决定藏, 决定藏, 梁, 法, 师真
+./selected_images/qldzjpng_088_199.png, 究竞一乘寳性, 究竟一秉宝性, 元魏天竺三藏勒那摩提
+./selected_images/qldzjpng_088_293.png, 大乘掌珍, 大秉掌珍, 唐三藏法师玄关奉韶
+./selected_images/qldzjpng_088_325.png, 大乘楞伽经唯识, 大垂楞伽经唯识, 天竺三藏法师魏国昭玄沙门统菩提流支罐
+./selected_images/qldzjpng_088_347.png, 大乘唯识丶唯识二十, 唯识二十, 大垂唯识, 唐三藏法师玄类奉韶, 陈三藏法师, 宜”
+./selected_images/qldzjpng_088_369.png, 宝髻经四法优波提舍, 宝髻经四法优波提舍, 元魏天竺三藏法师此目智仙等舞
+./selected_images/qldzjpng_088_383.png, 大丈夫, 大丈夫, 北, 凉世沙门攀道泰
+./selected_images/qldzjpng_088_417.png, 入大乘, 入大垂, 北, 凉, 门, 释道泰
+./selected_images/qldzjpng_088_459.png, 中逸舖, 辩中透, 唐, 三藏法师玄奉制罐
+./selected_images/qldzjpng_088_501.png, 中逸, 中轮, 唐, 11, 藏, 法, 师, 玄黄奉韶谨
+./selected_images/qldzjpng_088_509.png, 顺中舖, 顺中, 元魏婆罗门瞿云般若流支
+./selected_images/qldzjpng_088_541.png, 摄大乘本, 摄大乘本
+./selected_images/qldzjpng_088_597.png, 中遥分别, 中逸分别, 真谛
+./selected_images/qldzjpng_088_637.png, 大乘起信, 大乘起信, 唐三藏宝叉难匝奉, 制罐
+./selected_images/qldzjpng_088_687.png, 回, 迎静, 后魏三藏毗目智仙等
+./selected_images/qldzjpng_088_715.png, 如实舖, 陈三藏法师真蒂
+./selected_images/qldzjpng_088_739.png, 实行王正镐, 宝行王正, 陈天竺三藏法师真鑫
+./selected_images/qldzjpng_088_765.png, 百字丶解拳丶掌中, 掌中, 解拳, 百字, 唐三藏法师羲净奉制, 陈三藏法, 元魏天竺三藏法师菩提流文, 师真谛馨
+./selected_images/qldzjpng_088_781.png, 方便心, 方便心, 后, 魏庄, 吉迦夜兴曜
+./selected_images/qldzjpng_089_077.png, 辟支佛因豫, 辟支佛因缘, 失人名, 今附秦录
+./selected_images/qldzjpng_089_099.png, 阿毗蓬磨大毗婆沙, 阿毗达磨大毗婆沙, 唐三藏法师立奘奉韶舞
+./selected_images/qldzjpng_092_541.png, 阿毗毗婆沙, 阿毗毗婆沙, 北琼沙门浮陀跋摩共道泰
+./selected_images/qldzjpng_094_331.png, 阿里达磨顺正理, 阿毗逹磨顺正理, 唐三藏法师玄奘奉韶
+./selected_images/qldzjpng_096_153.png, 阿昆达磨藏显宗, 阿昆逹磨藏显宗, 唐三藏法师玄奉, 韶
+./selected_images/qldzjpng_097_003.png, 阿耿逢培俱舍偏, 阿毗达磨俱舍, 唐三藏法师立笑奉, 韶
+./selected_images/qldzjpng_097_453.png, 舍利弗阿昆：编, 舍利弗阿毗墨, 姚秦天竺三藏云摩烟多共墨摩耶合罐
+./selected_images/qldzjpng_099_155.png, 阿毗逹磨俱舍本颂, 阿毗达磨俱舍本颂, 唐三藏法师玄奘奉, 韶
+./selected_images/qldzjpng_099_185.png, 三法度, 三法度, 东晋三藏僧伽提婆共远
+./selected_images/qldzjpng_099_229.png, 三弥底部, 三弥底部, 失, 名今附三素录
+./selected_images/qldzjpng_099_261.png, 阿耿八犍度, 阿毗云八键度, 持泰实三藏僧伽提婆共竺佛念
+./selected_images/qldzjpng_100_003.png, 成实, 成实岭, 姚泰三藏摩罗什
+./selected_images/qldzjpng_100_377.png, 阿毗达磨发智, 阿毗达磨发智, 唐, 三藏法师玄笑奉韶
+./selected_images/qldzjpng_101_003.png, 阿毗达磨集门足, 阿毗达磨集典门足, 唐, 三藏法师主英奉韶
+./selected_images/qldzjpng_101_261.png, 阿毗达磨品类足, 阿毗连磨品类足, 唐三藏法师玄英奉韶
+./selected_images/qldzjpng_101_495.png, 阿毗出甘露味, 阿毗云甘露味论, 人, 名
+./selected_images/qldzjpng_101_539.png, 韩婆沙, 婆沙, 秦圜宾三藏僧伽跋澄
+./selected_images/qldzjpng_102_123.png, 随相, 随相轮, 天竺三藏真罐
+./selected_images/qldzjpng_102_157.png, 阿毗达磨识身足, 阿毗达磨识身足, 唐三藏法师玄奘奉, 韶罐
+./selected_images/qldzjpng_102_403.png, 阿毗达磨界身足, 阿毗逹磨界身足, 唐三藏法师玄类奉, 韶
+./selected_images/qldzjpng_102_439.png, 五事毗婆沙, 五事毗婆沙, 唐三藏法师立类奉韶罐
+./selected_images/qldzjpng_102_461.png, 十八部丶部轨巽丶翼部宗轮, 巽部宗轮唐三藏法师玄奘奉韶, 部执翼, 十八部, 陈, 失, 111, 藏, 真蒂, 名
+./selected_images/qldzjpng_102_487.png, 杂阿毗心篇, 杂阿毗墨心, 宋天竺三藏僧伽跋摩等
+./selected_images/qldzjpng_103_003.png, 阿毗墨心, 阿毗叠心, 东晋僧伽提婆共慧远
+./selected_images/qldzjpng_103_075.png, 尊婆须蜜菩所集, 尊婆蜜菩萨所集, 符秦宾三藏僧伽跃澄等
+./selected_images/qldzjpng_103_331.png, 分别功德, 分别功德, 失人名附后汉
+./selected_images/qldzjpng_103_397.png, 入阿毗达磨, 入阿毗逢磨, 唐三藏玄奘奉, 韶选
+./selected_images/qldzjpng_103_425.png, 暴事分阿毗鼎编, 众事分阿毗云, 宋三藏求那跋佗罗共菩提耶舍罐
+./selected_images/qldzjpng_103_621.png, 解脱道, 解腕道, 梁扶南三藏僧伽婆罗罐
+./selected_images/qldzjpng_104_051.png, 法腾阿毗学心舖, 法胜阿毗云心, 高齐天竺三藏那连提黎耶舍, 1
+./selected_images/qldzjpng_104_159.png, 胜宗十句义, 胜宗十句羲, 唐三藏法师玄关奉韶罐
+./selected_images/qldzjpng_104_171.png, 阿毗达磨法蕴足, 阿毗连磨法蕴足输, 唐三藏法师玄英奉超罐
+./selected_images/qldzjpng_104_351.png, 立世阿毗尝, 立世阿毗云, 陈, 天竺, 三藏真蒂课
+./selected_images/qldzjpng_104_507.png, 大乘集菩萨学, 大垂集菩萨学, 宋西天三藏银, 夫轼光样卿普明慈觉傅梵法等韶醒
+./selected_images/qldzjpng_105_006.png, 大宗地玄文本, 大宗地玄文本, 陈, 谛, 藏
+./selected_images/qldzjpng_105_076.png, 金七十, 金七十, 藏真讳
+./selected_images/qldzjpng_105_130.png, 广程菩提心, 广释菩提心, 宋西天三藏朝奉大夫试光禄卿傅法大师施奉韶
+./selected_images/qldzjpng_105_160.png, 集诺法宾最上义, 集诺法宝最上义, 宋西天三藏朝奉大夫光禄卿传法大师雄奉韶
+./selected_images/qldzjpng_105_194.png, 集大乘相丶六十如理丶大乘二十颂·佛母般若波罗蜜多圆集要义, 佛母般若波罗蜜多集要义, 大秉二十颂, 六十颂如理, 集大秉相, 宋西天三藏明奉大夫试光禄卿傅法大师龙奉，韶译
+./selected_images/qldzjpng_105_220.png, 佛母般若波罗蜜多圆集要义稞, 佛毋般若波罗密多集要羲绎, 宋西天三藏朝翠大夫试光禄卿传法大师施奉韶罐
+./selected_images/qldzjpng_105_258.png, 大乘宾要义, 大秉宝要义, 宋西天三藏朝散大夫试鸿腹少卿傅梵大师法等泰韶
+./selected_images/qldzjpng_105_338.png, 菩萨本生髪, 菩谨本生曼, 宋朝散大尖试膛少灿同经梵才大师超德慧询等奉韶
+./selected_images/qldzjpng_105_500.png, 圣佛母般若波罗蜜多九精义丶大乘缘生丶教决定名羲, 教决定名义, 大乘绿生, 圣佛毋般若波罗蜜多九颂精义, 宋西天三藏朝奉大夫试鸿胜卿传法大师拖护奉, 唐特莲试鸿卿三藏沙门大广智不空奉, 宋西天三藏朝散大夫试脏卿传尖师法护等奉, 韶
+./selected_images/qldzjpng_105_526.png, 大乘中观程, 大秉中观, 宋三藏朝散大夫试鸿瞪卿光梵大师惟净等奉韶罐
+./selected_images/qldzjpng_105_594.png, 施设, 施设输, 宋西天三藏朝散天试光禄卿傅梵大师法等奉韶翠
+./selected_images/qldzjpng_105_656.png, 彰所知, 彰所知
+./selected_images/qldzjpng_106_003.png, 出耀经, 出曜经, 姚, 秦, 三藏竺佛念
+./selected_images/qldzjpng_106_487.png, 只愚因缘经, 愚因缘经, 元, 魏, 小, 慧凳
+./selected_images/qldzjpng_107_005.png, 佛本行经, 佛本行经, 宋, 凉州
+./selected_images/qldzjpng_107_137.png, 撰集百橡经, 撰集百绿经, 吴, 月支优婆塞支
+./selected_images/qldzjpng_107_281.png, 修行道地经, 修行道地经, 护
+./selected_images/qldzjpng_107_419.png, 道地经, 后漠安息三藏安世高
+./selected_images/qldzjpng_107_439.png, 佛说佛经丶惟日杂难经, 佛佛翳经吴沙门竺律灸共支越
+./selected_images/qldzjpng_107_457.png, 杂宝藏经, 杂寳藏经, 元魏沙门吉迦夜共墨醒
+./selected_images/qldzjpng_107_599.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_107_623.png, 文殊师利发经丶六菩萨名亦当踊持经丶小道地经丶阿舍口解十二因豫经, 阿舍口解十二因经, 小道地经, 六菩名亦当持经, 文殊师利发经, 后汉安息优婆塞安玄共最佛, 后汉失舞人名见费长房好, 东晋佛陀跋陀罗, 汉, 支, 罐, 绿
+./selected_images/qldzjpng_107_641.png, 付法藏因豫经, 付法藏因缘经, 后魏沙门吉迦夜共鬓曜
+./selected_images/qldzjpng_107_721.png, 逹摩多罗禅经, 逹摩多罗禅经, 东晋天竺三藏佛陀跋陀罗罐
+./selected_images/qldzjpng_108_004.png, 禅法要解经, 禅法要解经, 姚秦三藏摩罗什罐
+./selected_images/qldzjpng_108_040.png, 阿育王经, 阿育王经, 梁扶南三藏僧伽婆罗罐
+./selected_images/qldzjpng_108_152.png, 阿育王照喻经丶三慧经丶阿毗五法行经, 阿毗云五法行经安息三　藏安世高, 阿育王壁喻经, 三慧经, 失人名, 僧枯云安公琼土具经今附北凉录, 等
+./selected_images/qldzjpng_108_182.png, 宝头虚突罗开为优陀延王法缘经丶请宾头匾经、大勇蔷藤分别业报略经, 实头突罗阁写优陀延王法绿经, 请实头虞经, 宋天竺三藏求那跋陀罗, 宋三藏
+./selected_images/qldzjpng_108_202.png, 坐禅三法门经, 坐禅三法门经, 姚, 秦法师罗什
+./selected_images/qldzjpng_108_250.png, 佛所行经, 佛所行经, 北济天笠三, 戴
+./selected_images/qldzjpng_108_358.png, 僧伽罗刹所集佛行经, 僧伽罗刹所集佛行经, 澄
+./selected_images/qldzjpng_108_446.png, 法句警喻经, 法句壁喻经, 西晋沙门法炬共法立罐
+./selected_images/qldzjpng_108_540.png, 菩提行经, 菩提行经, 宋西天中印度惹烟默蕴国三藏明教大师天息奉韶
+./selected_images/qldzjpng_108_582.png, 金刚顶一切如米的罚瑞人乘现盆大教王经, 金刚顶一切如来真实摄大乘现证大教王经, 唐特进试满脏卿三藏沙门不空奉，韶
+./selected_images/qldzjpng_108_616.png, 文殊师利菩及诺仙所吉凶时日善恶宿曜经, 文殊师利菩萨及仙所吉凶时日善恶宿曜经, 弟子上都草泽杨景风修, 宋内供奉三藏沙门不空奉韶辉
+./selected_images/qldzjpng_108_654.png, 僧伽斯那所撰菩本缘经, 僧伽斯那所撰菩本缘经, 吴月支优姿塞支谦
+./selected_images/qldzjpng_108_708.png, 那先比丘经, 那先比丘经
+./selected_images/qldzjpng_109_007.png, 杂壁喻经, 旧杂劈喻经, 吴, 康, 僧
+./selected_images/qldzjpng_109_045.png, 禅要铜欲经、内身观章句经、法就经、迦莫结经, 迦叶结经, 法观经, 内身观章句经, 禅要可欲经, 西, 失, 汉安息三藏安世高群, 声, 失, 翠, 师, 师, 让, 名, 名
+./selected_images/qldzjpng_109_067.png, 百喻经, 百喻经, 齐天竺三藏求那毗地
+./selected_images/qldzjpng_109_111.png, 法句经, 法句, 兵天竺沙门潍祈等, 经
+./selected_images/qldzjpng_109_151.png, 经撰杂譬喻经, 众经撰杂喻经, 姚秦三藏法师妈摩罗什
+./selected_images/qldzjpng_109_185.png, 阿育王子法盆壤目因缘经, 阿育王子法益壤目因绿经, 秦三藏鬓摩提罐
+./selected_images/qldzjpng_109_213.png, 杂喻经, 杂譬喻经, 名记, 出后汉录
+./selected_images/qldzjpng_109_239.png, 无明罗刹经, 无明罗刹经, 失, 名今附秦
+./selected_images/qldzjpng_109_263.png, 文殊所说最胜名羲经, 丈殊祈最胜名义经, 宋西天三藏明田妙善普济法师金总持等奉韶
+./selected_images/qldzjpng_109_277.png, 迦丁比丘当来发经丶杂壁喻经, 杂壁喻经, 迦丁比丘当来变经, 后汉沙门支妻迦戴, 失, 罐, 人, 名, 今附宋, 绿
+./selected_images/qldzjpng_109_297.png, 思惟要略法丶十二逝经, 十二游经, 思惟要略法, 东医沙门迦留坨伽, 姚秦三藏法师妈摩罗什
+./selected_images/qldzjpng_109_313.png, 一三经同卷, 二三经同卷
+./selected_images/qldzjpng_109_335.png, 大乘修行菩行门诺经要集, 大秉修行菩隆行门经要集, 唐终南山至相寺沙门智严
+./selected_images/qldzjpng_109_417.png, 四阿含暮抄解, 四阿舍暮抄解, 符秦沙门摩罗佛提等, 阿, 罗, 婆素跋, 陀, 撰
+./selected_images/qldzjpng_109_465.png, 五门禅经要用法, 五门禅经要用法
+./selected_images/qldzjpng_109_517.png, 密力士大楷神王经偶, 密力士大权神王经偈, 元广福大师僧银管主八撰
+./selected_images/qldzjpng_109_541.png, 切秘密最上名义大教王仪轨, 切秘密最上名义大教王仪轨, 朱西天三藏朝奉大夫试光摄卿傅法大师施蔬奉韶罐
+./selected_images/qldzjpng_109_559.png, 大乐金刚藤修行成就仪轨丶曼殊室利菩萨吉祥伽陀, 曼殊室利菩萨吉祥伽陀, 大乐金刚萨修行成就仪轨, 唐特进试鸿瞩娜三藏沙门, 宋西天经三藏朝散大夫载光禄卿明教大师法贤奉韶, 不空奉韶罐
+./selected_images/qldzjpng_109_575.png, 成就妙法莲华经王瑜伽观智仪轨, 成就妙法莲华经王瑜伽观智仪执, 唐特进试鸿胜卿三藏沙门大广智不空奉韶醒
+./selected_images/qldzjpng_109_615.png, 二法二仪同卷, 二法二仪同卷
+./selected_images/qldzjpng_109_641.png, 三法同卷, 三法同卷
+./selected_images/qldzjpng_109_655.png, 大威怒乌温仪轨、大孔雀明王盅像垣场仪轨丶金剧顶瑜伽金刚薛仪轨, 金刚顶瑜伽金刚仪轨, 大孔雀明王像坛场仪轨, 大威怒鸟努磨仪轨, 唐北天竺三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_109_683.png, 四法同卷, 四法同卷
+./selected_images/qldzjpng_109_705.png, 五字陀罗尼丶, 仁王般若陀罗尼, 五字陀罗尼, 仁王般若陀罗尼稗, 唐北天竺三藏沙, 大广智不空奉韶
+./selected_images/qldzjpng_110_010.png, 大乐金刚不空真罚二味耶俨般若波罗密多理趣程, 罗蜜多理趣稞,, 大乐金刚不空具实三耶经般若波, 唐三藏沙门大广智不空奉
+./selected_images/qldzjpng_110_042.png, 佛说最腾妙吉祥根本智最上褪密一切名栽三摩地分, 名义三摩地分, 佛最胜妙吉祥根本智最上秘密一切, 大施护华
+./selected_images/qldzjpng_110_060.png, 金刷王菩萨秘密念仪轨丶金刚顶胜初瑜伽普只菩萨念法经, 金刚顶胜初瑜伽菩萨念法经, 金刚王菩秘密念仪轨, 磨三藏沙门大广智不空奉, 部群
+./selected_images/qldzjpng_110_082.png, 金刷顶瑜伽金刚藤五秘密修行念仪轨丶无量如来修观行供养仪轨, 金刚顶瑜伽金刚捶五秘密修行念仪轨, 无量寿如来修观行供养仪轨, 唐三藏沙阿大广智不空奉, 品群
+./selected_images/qldzjpng_110_108.png, 甘露军茶利菩藤供养念踊成就仪轨, 甘露军茶利菩隆供养念成就仪轨, 唐三藏沙门大广智不空奉, 韶选
+./selected_images/qldzjpng_110_128.png, 观自在多罗瑜伽念法丶圣观自在菩藤心真言瑜伽观行轨仪, 圣观自在菩谨心具言瑜伽观行轨仪, 观自在多罗瑜伽念法, 唐三藏沙门大广智不空奉韶罐
+./selected_images/qldzjpng_110_144.png, 菩蓝河色欲法丶四品学法丶大虚空藏菩萨念法丶仁王般若念法, 仁王般若念法, 大虚空藏菩隆念法, 四品学法, 菩萨色欲法, 唐三戴沙门大广智不空奉韶, 宋求那跋, 后秦三藏摩罗什罐, 陀, 罗谨
+./selected_images/qldzjpng_110_160.png, 阿关如来念诵供法丶佛顶尊滕陀罗尼念诵仪轨, 佛顶尊滕陀罗尼念仪轨, 阿阁如来念供养法, 唐三藏沙门大广智不空奉
+./selected_images/qldzjpng_110_182.png, 法二轨品同卷, 一法二轨品同卷
+./selected_images/qldzjpng_110_202.png, 苏悉地羯罗供法, 苏悉地羯罗供养法, 唐中印度三藏善无畏
+./selected_images/qldzjpng_110_238.png, 不使者陀罗尼秘密法丶金刚顶瑜伽修习毗虚遮那三摩地法, 金刚顶经瑜伽修习毗卢遮那三摩地法, 不动使者陀罗尼秘密法, 唐三藏沙门金刚菩提奉韶, 刚智绎
+./selected_images/qldzjpng_110_264.png, 金刚顶瑜伽经文殊师利菩蔽仪轨供养法、瑜伽薄华部念踊法, 金刚顶瑜伽经文殊师利菩萨仪轨供养法, 瑜伽莲华部念法, 唐北天竺三藏沙门大广智不空奉韶}
+./selected_images/qldzjpng_110_282.png, 金刚顶经瑜伽观自在王如来修行法, 金刚顶经瑜伽观自在王如来修行法, 唐南天竺圃三藏金刚智课
+./selected_images/qldzjpng_110_296.png, 一法一仪轨同卷, 一法一仪轨同卷
+./selected_images/qldzjpng_110_316.png, 略述金剧顶瑜伽分别圣位修证法门丶一字佛顶轮王念仪轨, 略述金刚顶瑜伽分别圣位修证法门, 一字佛顶轮王念仪, 唐大典善寺三藏沙门大广智不空奉韶薛, 磨特进试御三藏沙门大广智不空奉韶罐
+./selected_images/qldzjpng_110_338.png, 仁王国般若波罗蜜多经道场念诵轨仪, 仁王护国般若波罗蜜多经道场念, 轨仪, 唐址天丝三藏沙门大广智不空奉韶罐
+./selected_images/qldzjpng_110_356.png, 金刚顶莲华部心念诵仪轨, 金刚顶莲华部心念仪, 唐北天竺三藏沙门大广智不空奉韶罐
+./selected_images/qldzjpng_110_384.png, 妙吉样平等瑜伽秘密观身成佛仪, 佛如意轮莲华心如来修行观门仪, 宋大契丹国师中天竺摩竭陀圆三藏法师慈贤
+./selected_images/qldzjpng_110_406.png, 法集要颂经, 法集要颂经, 宋西天中印度惹默国三藏明教大师天息茶
+./selected_images/qldzjpng_110_456.png, 勤发诺王要偈丶龙树菩勤诚王, 龙树菩萨诚王, 勒发王要偈宋天竺三藏求那跋摩罐, 进, 三藏法师羲净
+./selected_images/qldzjpng_110_472.png, 普金刚萨埋瑜伽念踊仪、金刚顶瑜伽护摩仪轨, 金刚顶瑜伽护摩仪轨, 普金刚瑜伽念仪, 唐大与善寺三藏沙门大广智不空奉韶, 师子国三藏沙门阿目传跋折罗衰勃改名智戴
+./selected_images/qldzjpng_110_496.png, 一仪一胜相同卷, 二仪一腾相同卷
+./selected_images/qldzjpng_110_516.png, 金酬顶经瑜伽文殊师利菩薛法一品丶金剧顶瑜伽经十八命指丶河利常母道言法, 利帝母真言法, 金刚顶瑜伽经十八会指归, 金刚顶经瑜伽文殊师利菩谨法一品, 唐特进试鸿嘘卿三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_110_532.png, 六经同卷, 六经同卷
+./selected_images/qldzjpng_110_558.png, 百五十佛丶百千大集经地藏菩精问法身证, 百千大集经地藏菩萨请问法身, 一百五十佛头, 唐沙门义净于那网陀寺, 唐特进贰鸿瞌卿三藏沙门大广智不空奉韶
+./selected_images/qldzjpng_110_574.png, 佛吉祥德谱, 佛吉祥德, 宋西天三藏朝奉大夫武光禄砌傅法大师施奉韶露
+./selected_images/qldzjpng_110_598.png, 阿育王传, 阿育王傅, 西晋安息国三藏, 安法钦舞
+./selected_images/qldzjpng_110_692.png, 马菩藤传丶龙树菩传丶提婆菩藤传, 提婆苦傅, 龙树苦傅, 马苦隆傅, 姚泰三藏法师摩罗什
+./selected_images/qldzjpng_110_706.png, 婆鼓乐豆傅丶龙树菩隧篇禅陀迦王说法要偈, 龙树菩为禅陀迎王法要偶, 婆数蝶豆傅, 宋三藏法师求那跋摩罐, 天竺三藏
+./selected_images/qldzjpng_110_726.png, 撰集三藏及藏传丶大阿罗藻难提蜜多罗所说法住记, 大阿罗汉鞋提蜜多罗所法住记, 撰集三藏及杂藏传失, 唐三藏法师玄奘奉韶罐, 人名附东晋录
+./selected_images/qldzjpng_110_742.png, 瑜伽集要焰口施食起教阿雉陀由丶瑜伽集要焰口施食仪, 瑜伽集要焰口施食仪, 瑜伽集要焰口施食起教阿难陀缘由, 三藏沙门不空奉韶罐
+./selected_images/qldzjpng_111_003.png, 维喆所点经, 维摩喆所经, 姚秦三藏法师摩罗什罐
+./selected_images/qldzjpng_111_219.png, 法显传, 法显傅, 东晋沙门法显自记进天竺事
+./selected_images/qldzjpng_111_249.png, 迦普, 释迦谱, 齐释僧祐
+./selected_images/qldzjpng_111_483.png, 经律相, 经律巽相, 梁沙门僧晏寳唱等奉勃撰
+./selected_images/qldzjpng_112_477.png, 慈悲道场法, 慈悲道场法
+./selected_images/qldzjpng_112_623.png, 比丘尼傅, 比丘尼傅, 胥庄崴寺稞宝, 麦帽
+./selected_images/qldzjpng_112_667.png, 高信传, 高僧傅, 梁会稽嘉祥寺沙门慧皎撰
+./selected_images/qldzjpng_113_167.png, 循高价傅, 续髙僧傅, 宣, 撰
+./selected_images/qldzjpng_114_147.png, 宋高价傅, 宋高僧传, 宋左街天寿寺通慧大师赐此紫沙门背穹等奉办撰
+./selected_images/qldzjpng_114_717.png, 明高价傅, 明髙僧傅, 明天台山慈云寺沙门释如惺
+./selected_images/qldzjpng_115_003.png, 弘明集, 弘明集, 梁, 释, 僧, 祐, 撰
+./selected_images/qldzjpng_115_283.png, 广弘明集, 广弘明集, 终南, 山稞道宣撰
+./selected_images/qldzjpng_116_243.png, 陀罗尼杂集, 陀罗尼杂集, 未详撰者今附梁录
+./selected_images/qldzjpng_116_415.png, 法华经安乐行义, 法华经安乐行义, 南岳思大禅师
+./selected_images/qldzjpng_116_431.png, 大乘止观法门, 大乘止观法门, 陈, 南岳思大禅师曲授心要
+./selected_images/qldzjpng_116_503.png, 法华三昧仪, 法华三味仪, 7
+./selected_images/qldzjpng_116_525.png, 赭法无爵三昧法门, 诸法无静三法门, 陈, 南
+./selected_images/qldzjpng_116_565.png, 群可搬若波罗密经意三昧, 摩般若波罗密经觉意三昧, 隋天台智者大师
+./selected_images/qldzjpng_116_587.png, 净土十疑, 净土十疑, 隋, 天, 师
+./selected_images/qldzjpng_116_605.png, 观音义疏, 观音义疏, 隋, 天台智者大, 师
+./selected_images/qldzjpng_116_651.png, 观音义流己, 观音义疏记, 宋, 四, 明, 沙, 门, 知礼
+./selected_images/qldzjpng_116_725.png, 法界次第初门, 法界次第初门, 陈, 隋, 师, 智者大师撰
+./selected_images/qldzjpng_117_003.png, 修习止观坐禅法要, 修习止观坐禅法要, 隋天台山修禅寺沙门智头述
+./selected_images/qldzjpng_117_047.png, 观音玄义, 观音玄义
+./selected_images/qldzjpng_117_095.png, 观音玄义记, 观音玄羲记, 宋, 述
+./selected_images/qldzjpng_117_183.png, 四念处, 四念处, 隋天台山修禅寺智者大师
+./selected_images/qldzjpng_117_257.png, 天台四教仪, 天台四教仪, 髙, 萌鹿, 少, 门讳观银
+./selected_images/qldzjpng_117_289.png, 天台四教仪集缸, 天台四教仪集, 南天竺沙门, 蒙润, 集
+./selected_images/qldzjpng_117_479.png, 妙法莲华经玄羲畿, 妙法莲华经玄义辉, 隋天台智者大师
+./selected_images/qldzjpng_118_691.png, 妙法莲华经文句, 妙法莲华经文句, 隋, 台智者, 冏大, 师, 就
+./selected_images/qldzjpng_119_295.png, 法华文句记, 法华文句记, 沙门湛然述
+./selected_images/qldzjpng_120_145.png, 摩止观, 摩止观, 隋, 天台智者大师龙
+./selected_images/qldzjpng_120_539.png, 集沙门不应拜俗等事, 集沙门不应拜俗等事, 唐弘福寺沙门罐彦棕纂录
+./selected_images/qldzjpng_120_639.png, 华殿经旨归, 华经白归, 唐京驰西崇福寺沙门法藏述
+./selected_images/qldzjpng_120_663.png, 般若波罗蜜多心经略疏, 般若波罗蜜多心经略疏, 唐, 翻经沙门法藏, 述
+./selected_images/qldzjpng_120_675.png, 金刚般若经跪, 金刚般若经跪, 台智者大师
+./selected_images/qldzjpng_120_701.png, 隋天台智者大师别傅, 隋天台智者大师别傅, 门, 灌, 顶, 据
+./selected_images/qldzjpng_120_723.png, 仁王护国般若经疏, 仁王护国般若经疏, 隋天台智者大, 师, 谎
+./selected_images/qldzjpng_121_003.png, 金光明经玄义, 金光明经玄义, 隋天台, 门, 智, 者大师, 顶, 录
+./selected_images/qldzjpng_121_037.png, 金光明经玄义拾邀记, 金光明经玄义拾遗记, 沙门知礼述
+./selected_images/qldzjpng_121_141.png, 佛说观无量荐佛经疏, 佛说观无量佛经疏, 天荘
+./selected_images/qldzjpng_121_167.png, 观无吊高佛经硫妙宗纱, 观无量寿佛经疏妙宗剑, 宋, 四明沙门知礼, 述
+./selected_images/qldzjpng_121_283.png, 释禅波罗蜜次第法门, 稞禅波罗蜜次第法门, 隋天, 第, 第, 十, 子, 口, 智, 法, 者, 慎, 大, 师
+./selected_images/qldzjpng_121_501.png, 观心疏, 观心疏, 隋天台沙门灌顶撰
+./selected_images/qldzjpng_121_601.png, 金光明经文句, 金光明经文句, 隋, 天, 日, 么口, 智者大师, 灌, 顶, 录
+./selected_images/qldzjpng_121_711.png, 金光明经文句记, 金光明经文句记, 宋四明沙门, 释知礼述
+./selected_images/qldzjpng_122_129.png, 跆隧戒义疏, 菩懂戒义疏, 门隋, 天, 智, 者大师
+./selected_images/qldzjpng_122_181.png, 历代三宝纪, 历代三宝纪, 隋翻经学士成都费长房撰
+./selected_images/qldzjpng_122_207.png, 请观音经疏, 请观音经疏, 弟, 天, tl., L, 智者大, 法, 师, 师, 就
+./selected_images/qldzjpng_122_237.png, 四教义, 四教义, 隋天台山修禅寺沙门智头撰
+./selected_images/qldzjpng_122_363.png, 罗经目录, 众经目录, 隋, 翻经沙门及学士等撰
+./selected_images/qldzjpng_122_465.png, 罗经目录, 众经目录, 隋翻经沙门法经等奉勃撰
+./selected_images/qldzjpng_122_585.png, 大般涅经疏, 大般涅繁经疏, 唐隋, 沙, 师
+./selected_images/qldzjpng_123_363.png, 大般涅檗经玄义, 大般涅繁经玄义, 隋, 天台沙门灌, 顶, 撰
+./selected_images/qldzjpng_123_407.png, 涅经玄义发源机要, 涅繁玄义发源机要, 宋鲮唐沙门稞智圆述
+./selected_images/qldzjpng_123_489.png, 蒜正编, 东官学士喇子良
+./selected_images/qldzjpng_123_667.png, 华厂一乘教羲分齐章, 华严一乘教义分齐章, 唐大荐福寺沙门法藏述
+./selected_images/qldzjpng_124_003.png, 华徽经明法品内立三宝章, 华严经明法品内立三宝章, 国西寺沙门法藏述
+./selected_images/qldzjpng_124_045.png, 修华奥旨妄盐遥源观, 修华严奥旨妄盖还源观, 唐大蒿福寺翻经沙门法藏述
+./selected_images/qldzjpng_124_061.png, 华瞰金师子章, 华严金师子章, 京大福寺沙门法藏述
+./selected_images/qldzjpng_124_077.png, 华磁法界玄筑, 华严法界玄镜, 唐清凉山大华严寺沙门澄巍述
+./selected_images/qldzjpng_124_111.png, 天台八教大意, 天台八教大意, 天台沙门灌顶撰
+./selected_images/qldzjpng_124_127.png, 破邪, 唐, 虞, 和私心, 制
+./selected_images/qldzjpng_124_173.png, 古今佛道街定路, 集古今佛道街实录, 唐, 道, 宣, 撰
+./selected_images/qldzjpng_124_269.png, 织集古今佛道衡, 集古今佛道衡, 唐, 沙, 门, 智, 升, 撰
+./selected_images/qldzjpng_124_289.png, 佛说阿弥陀经疏, 佛阿弥陀经疏, 唐海东新罗国沙门元晓述
+./selected_images/qldzjpng_124_299.png, 大唐内典录, 大唐内典录, 唐, 沙门杆道宣撰
+./selected_images/qldzjpng_124_635.png, 集神州塔寺三霞感通录, 集神州塔寺三寳感通录, 唐终南山, 稞道宣
+./selected_images/qldzjpng_124_725.png, 大唐西域记, 大唐西域记, 唐三藏法师玄关奉韶罐
+./selected_images/qldzjpng_125_171.png, 大慈恩寺三藏法师傅, 大慈恩寺三藏法师傅, 唐沙门慧立本稞彦惊
+./selected_images/qldzjpng_125_337.png, 法苑珠林, 法苑珠林, 唐, 西明寺沙门耦道世撰
+./selected_images/qldzjpng_128_003.png, 诺经要集, 经要集, 唐, 西明寺沙门道世, 撰
+./selected_images/qldzjpng_128_563.png, 显密圆通成佛心要集, 显密圆通成佛心要集, 事上军颜川郡附图公食邑三千户同修园史陈境撰, 宣政殿士全紫乐禄大夫行欲事中知武定军节广使
+./selected_images/qldzjpng_128_619.png, 十门惑, 十门惑, 唐大慈恩寺沙门释复礼撰
+./selected_images/qldzjpng_128_647.png, 大唐西域求法高僧傅, 大唐西域求法高僧傅, 唐, 口三藏法师羲净奉, 韶撰
+./selected_images/qldzjpng_128_683.png, 南海寄归内法傅, 南海寄归内法傅, 唐, 三藏沙, 门, 义, 净, 撰
+./selected_images/qldzjpng_129_003.png, 开元释教录, 开元释教录, 唐西崇福寺沙门智升撰
+./selected_images/qldzjpng_129_673.png, 开元群教录略出, 开元稞教归略出, 唐西崇福寺沙门智升撰
+./selected_images/qldzjpng_129_775.png, 甄正, 甄正, 唐佛授记寺沙门疑撰
+./selected_images/qldzjpng_129_811.png, 罪要行法丶受用三水要行法丶设命放生轨仪法, 护命放生轨仪法唐三藏法师羲净, 受用三水要行法, 罪要行法, 唐三藏法师, 羲净撰
+./selected_images/qldzjpng_130_033.png, 大方腐佛华崴经, 大方广佛华严经, 唐方山长者李通玄造
+./selected_images/qldzjpng_131_106.png, 解迷头智成悲十明偏, 解迷显智成悲十明, 太原李通立撰
+./selected_images/qldzjpng_131_124.png, 六祖大师法宝塘经, 六祖大师法寳坛经, 门, 海, 等, 集
+./selected_images/qldzjpng_131_154.png, 止观大意丶始终心要丶法华三昧行事运想补助仪, 法华三珠行事通想补助仪, 始终心要, 止观大意, 唐天台沙门释湛然述, 国清沙门湛然蝶
+./selected_images/qldzjpng_131_174.png, 集诺经礼悔文, 集诺经礼悔文, 唐, 西崇福, 寺, 辨, 智, 撰
+./selected_images/qldzjpng_131_230.png, 十不二门, 十不二门, 唐, 荆溪尊者湛然述
+./selected_images/qldzjpng_131_242.png, 十不二门指要钞, 十不二门指要纱, 宋, 明, 沙, 门知, 礼, 述
+./selected_images/qldzjpng_131_290.png, 金刷牌, 金刚, 唐天台沙门湛然述
+./selected_images/qldzjpng_131_318.png, 大方广佛华懒经疏予益本寅找钞, 大方广佛华最经序会本演义钞, 清凉山大华严寺沙门澄观撰述
+./selected_images/qldzjpng_132_003.png, 华嫩台本县会玄记, 华严会本会玄记, 山再光寺比丘普瑞集
+./selected_images/qldzjpng_133_003.png, 大方广佛华严经疏钞本, 大方广佛华严经疏钞会本, 唐清凉山大华·严寺沙门澄观撰迷
+./selected_images/qldzjpng_137_200.png, 人方广佛华厂经普声行品别行疏钞会本, 行疏钞会本, 大方广佛华严经普贤行品别, 唐圭草堂寺沙门宗密随疏钞
+./selected_images/qldzjpng_137_392.png, 折疑, 折疑, 金莹大慈恩寺西域师子此丘述
+./selected_images/qldzjpng_137_532.png, 华原人解, 华严原人解, 长安大开元寺讲经沙门圆觉撰
+./selected_images/qldzjpng_137_638.png, 大方广觉修多罗了义经略疏, 大方广觉多罗了义经署, 终南山草堂寺沙门宗家述
+./selected_images/qldzjpng_137_748.png, 国觉经略疏之钞, 圆觉经署跖之, 圭拳兰若沙门宗客大钞暮出
+./selected_images/qldzjpng_138_325.png, 大方广山, 大方广圆觉经大疏, 科人员, 唐终南山草堂寺沙门宗密
+./selected_images/qldzjpng_138_597.png, 子兰盆经疏, 孟兰盆经疏, 宋, 唐, 晋水沙门净源, 充国, 门, 密, 疏注
+./selected_images/qldzjpng_138_621.png, 禅源褚鑫策, 禅源诺诠售, 圭峰山沙门, 宗密, 述
+./selected_images/qldzjpng_138_681.png, 注华照法界观门, 注华严法界观门, 唐圭拳兰若沙门宗密注
+./selected_images/qldzjpng_138_703.png, 黄联山新隙弹师傅心法要, 黄檗山断际禅师傅心法要, 河东裴休集并序
+./selected_images/qldzjpng_138_727.png, 金刷股若经疏祭要, 金刚般若经纂要, 京大兴福寺沙门宗密述, 长水沙门于治窕
+./selected_images/qldzjpng_139_004.png, 金刚经繁要刊定记, 金刚经算要刊定记, 长水沙门, 予, 录
+./selected_images/qldzjpng_139_176.png, 慈悲水懒法, 慈悲水法, 失罐撰人名
+./selected_images/qldzjpng_139_214.png, 观自在菩藤如意轮咒课法、天台智者大师歌忌礼谱文, 天台智者大师齐忌礼文, 观自在菩如意轮咒课法, 宋, 宋天竺寺慈云大师遵式逑, 川, 沙, 门, 仁岳, 棋
+./selected_images/qldzjpng_139_228.png, 金光明法补助低, 金光明法补助仪, 宋天台东掖, 山沙门遵式集
+./selected_images/qldzjpng_139_244.png, 行牛净士藏颐筑往牛土决疑行二门, 往生净土决疑行二门, 宋, 著, 沙, 门门, 遵, 式, 绿, 此经
+./selected_images/qldzjpng_139_268.png, 请观世音芦蓝消伏毒害陀罗尼三味仪、金光明最胜铁仪, 金光明最滕仪宋傅天台教观四明沙门知礼集, 请观世音菩懂消伏毒害陀罗尼三味仪, 集于四明大富山兰若再治
+./selected_images/qldzjpng_139_290.png, 法智遵编观心二百问, 法智遣观心二百问, 法, 爱孙, 忠
+./selected_images/qldzjpng_139_314.png, 千手眼大悲心咒行法·懿法华经仪式丶修要旨, 修要肯, 礼法华经仪式, 千手眼大悲心咒行法, 宋四明沙门知礼集, 宋四明沙门知礼述, 失撰人名
+./selected_images/qldzjpng_139_346.png, 娥盛光道场念仪丶璟迦如来涅乐礼嚣文, 迦如来涅繁礼文,, 盛光道场念仪, 宋, 宋, 云间, 沙, 门, 仁, 岳, 铁
+./selected_images/qldzjpng_139_370.png, 景德传灯录, 景德傅灯录
+./selected_images/qldzjpng_140_285.png, 明觉禅师语录, 明觉禅师语录, 学, 小, 师, 惟盏竺, 编
+./selected_images/qldzjpng_140_417.png, 禅林宝训, 禅林宝训, 东兵沙门, 净善, 重佳
+./selected_images/qldzjpng_140_491.png, 首楞严经义海, 首楞经义海
+./selected_images/qldzjpng_141_148.png, 傅法正宗记, 傅法正宗记, 宋藤州东山沙门释契嵩煸修
+./selected_images/qldzjpng_141_326.png, 传法正宗, 傅法正宗, 宋藤州东山沙门辉契嵩
+./selected_images/qldzjpng_141_358.png, 万善同归集, 万善同归集, 妙圆正修智觉永明寿禅师述
+./selected_images/qldzjpng_141_466.png, 永明心赋, 永明心赋注, 妙圆正修智觉永明寿禅师述
+./selected_images/qldzjpng_141_570.png, 密咒圆因往生集, 密咒圆因往生集, 北五堂山大清凉寺出家挺熙沙门, 甘泉师子生寺出家承肯沙门, 兰山崇法禅, 师沙门, 金, 幢, 慧真骗集, 定
+./selected_images/qldzjpng_141_598.png, 宗镜录, 宗镜录, 宋慧日永明妙圆正修智觉禅师延寿集
+./selected_images/qldzjpng_143_561.png, 佛果圜悟谭师碧线集, 佛果圜悟禅师碧崴集, 天界此丘性湛, 秣陵远庵吴自弘, 校
+./selected_images/qldzjpng_144_003.png, 圆悟佛果禅师语录, 圆悟佛果禅师语录, 宋平江府虎上山门人绍隆等
+./selected_images/qldzjpng_144_295.png, 辅教福, 辅教编, 宋藤州钟津东山沙门释契蒿撰
+./selected_images/qldzjpng_144_345.png, 翻鑫名义集, 翻名义集, 宋姑苏景德寺普润大师法云编
+./selected_images/qldzjpng_144_721.png, 大乘起信疏, 大秉起信疏, 西, 太原寺沙门法藏述
+./selected_images/qldzjpng_145_003.png, 起信疏笔削记, 起信疏笔削记, 长水沙门, 子, 绿
+./selected_images/qldzjpng_145_325.png, 五焙兰元, 五灯会元, 宋沙门大川济纂
+./selected_images/qldzjpng_146_769.png, 护法, 护法输, 宋丞相无盖居士张商英述
+./selected_images/qldzjpng_146_803.png, 佛遗教经疏节要, 佛遣教经疏节要, 明雪楼沙阿袜宏补, 宋晋水沙门净源节要, 姚秦三藏法师摩罗什
+./selected_images/qldzjpng_147_005.png, 天台傅佛心印记, 天台傅佛心印记, 元傅天台宗教兴教大师虎黔沙门怀则述
+./selected_images/qldzjpng_147_021.png, 匾山莲宗宝, 鹰山莲宗宝, 东林禅寺莲宗善法祖堂勘修净业臣僧普度谨自集
+./selected_images/qldzjpng_147_167.png, 肇新跪, 肇新跪, 大白马寺宗主赠邦国公海印开法大师长罐沙门, 五苔大万圣祐国寺开山住持释源
+./selected_images/qldzjpng_147_313.png, 大藏圣教法宝标目, 大藏圣教法寳标目, 元清源居士王古撰
+./selected_images/qldzjpng_147_529.png, 妙法莲华经要解, 妙法莲华经要解, 温陵开元莲寺比丘，戒环解
+./selected_images/qldzjpng_148_003.png, 大佛顶如来密因修证了葬褚菩萨万行首楞酸经会解, 大佛顶如来密因俯证了羲苦隆葛行首, 楞最经会解, 天竺沙门般剌密帝杆
+./selected_images/qldzjpng_148_357.png, 文正蒜佛日普照元叟端师语铁, 慧文正群佛日普照元叟端禅师语录
+./selected_images/qldzjpng_148_457.png, 佛日普照慧蒜楚石禅师品, 佛日普照慧楚石禅师语录, 小师比丘祖光编
+./selected_images/qldzjpng_148_781.png, 佛祖历代通裁, 佛祖历代通载, 嘉兴路大中祥符禅寺佳持华亭念常集
+./selected_images/qldzjpng_149_723.png, 百丈清媳, 百丈清规, 大智寿圣礼寺住持臣僧德运奉敕重编, 大龙朔集庆寺住持臣僧大「奉敕校正
+./selected_images/qldzjpng_150_004.png, 蒜传录, 瓣伪录, 元道者山云筝禅寺沙门祥遒奉勃实录撰
+./selected_images/qldzjpng_150_096.png, 大元至元法宦勘同魏录, 大元至元法宝勘同总录, 元讲经律沙门吉祥等奉, 韶集
+./selected_images/qldzjpng_150_296.png, 楞伽阿跋多罗宝经主解, 楞伽阿跋多罗宝经解, 大明天界善世禅寺住持臣僧宗劝, 演, 福讲寺住持百僧 如奉韶同注, 奉部罐
+./selected_images/qldzjpng_150_466.png, 般若波罗蜜多心经茫解丶金刚般若波罗蜜经解, 金刚般若波罗蜜经主解, 般若波罗蜜多心经主解, 唐三, 姚秦三戴法师妈摩罗什奉韶, 一藏法师玄芙韶罐
+./selected_images/qldzjpng_150_496.png, 大明仁孝后学感佛第一希有大功德经, 大明仁孝皇后梦感佛第一希有大功德经
+./selected_images/qldzjpng_150_522.png, 大明三藏法数, 大明三藏法数, 上天竺前住持沙门一如等奉，勒集鞋
+./selected_images/qldzjpng_151_707.png, 佛世尊如来菩藤尊者神僧名经, 诺佛世尊如来菩荨者神僧名经
+./selected_images/qldzjpng_152_158.png, 大明太宗文皇帝御制序谱文, 大明太宗文皇帝御制序文
+./selected_images/qldzjpng_152_170.png, 神僧傅, 神僧传
+./selected_images/qldzjpng_152_372.png, 淄门训, 门警训, 元代临济宗僧永中补, 明代临济宗僧如叠续补
+./selected_images/qldzjpng_152_546.png, 高丽国普照禅师修心诀, 高丽国普照禅师心诀, 高丽国普照禅师知撰
+./selected_images/qldzjpng_152_560.png, 真心直说, 真心直说, 高丽国普照禅师知撰
+./selected_images/qldzjpng_152_584.png, 八识矩补, 八识规矩补, 明鲁法师普泰补
+./selected_images/qldzjpng_152_616.png, 大乘百法明门, 大秉百法明门, 唐三藏法师玄装秦韶，增修慈恩法师
+./selected_images/qldzjpng_152_642.png, 八十八祖传傅赞, 八十八祖傅, 明, 秀水寓公高承艇补, 匡憨山德清述
+./selected_images/qldzjpng_152_752.png, 大佛顶首楞厂经正脉疏, 大佛顶首楞严经正脉疏, 明京都西湖沙门交光真铁述
+./selected_images/qldzjpng_154_003.png, 佛说阿弥陀经疏钞, 佛阿弥陀经疏剑, 明古杭云楼寺沙门袜宏述
+./selected_images/qldzjpng_154_243.png, 紫柏尊者全集, 紫柏尊者全集, 明憨山德清阁
+./selected_images/qldzjpng_155_199.png, 憨山大师萝游全集, 憨山大师髪全集, 侍者福善日录, 门人通炯编
+./selected_images/qldzjpng_156_567.png, 性相通说, 性相通瓮, 唐三藏法师立奘奉, 清逑, 韶罐
+./selected_images/qldzjpng_156_597.png, 庄子内篇, 庄子内篇注, 明匡逸叟憨山稞德清
+./selected_images/qldzjpng_156_695.png, 龙池幻有禅师语录, 龙池幻有师语录, 门, 人阎悟圆修等编
+./selected_images/qldzjpng_157_367.png, 天彩谭师语录, 天忆禅师语录, 酮, 法门人通绣
+./selected_images/qldzjpng_157_693.png, 密云神师韵录, 密云禅师语录, 天童弘法寺住持门人弘觉禅师臣道态上进
+./selected_images/qldzjpng_158_137.png, 大贤若济能仁工环绣国师品缘, 大觉普济能仁玉琳绣国师语绿, 嗣法门人行岳编
+./selected_images/qldzjpng_158_315.png, 明道正节溪森禅师语录, 明道正觉节溪森禅师语录, 嗣法门人超德等
+./selected_images/qldzjpng_158_387.png, 弘凳禅师语录, 弘觉禅师语录, 嗣, 法门人显权等
+./selected_images/qldzjpng_158_697.png, 佛说梵网经直解, 佛梵网经直解, 秦三藏法师，摩罗什奉韶
+./selected_images/qldzjpng_159_217.png, 昆尼止持会集, 昆尼止持会集, 清金陵宝华山弘律沙门读体集
+./selected_images/qldzjpng_159_669.png, 品无德部四分律删楠随机羯磨, 无德部四分律删补随机羯磨, 清金陵华山后学比丘读体, 唐京兆崇羲寺沙门道宣, 翼集, 赣穆
+./selected_images/qldzjpng_160_383.png, 毗尼关要, 里尼关要, 清金陵宝华山律学沙门德基辑
+./selected_images/qldzjpng_161_083.png, 大乘止观法门释要, 大乘止观法门释要, 明古英沙门智旭进
+./selected_images/qldzjpng_161_219.png, 南默山茨隙潭师语, 南岳山茨际禅师语录, 人连尊逹等骗次
+./selected_images/qldzjpng_161_307.png, 相宗八要直解, 相宗八要直解, 明, 古吴漓益释智旭述
+./selected_images/qldzjpng_161_427.png, 五百罗汉尊号, 五百罗汉尊号, 赐进士出身奉政大夫嘉兴高道素斗光手
+./selected_images/qldzjpng_161_449.png, 明觉瞧禅师语录, 明觉聪禅师语录, 嗣, 法, 门, 人寂空编
+./selected_images/qldzjpng_162_003.png, 大佛顶首楞严经疏解蒙钞, 大佛顶首楞严经疏解蒙纱, 海印弟子蒙叟铁谦益远
+./selected_images/qldzjpng_163_004.png, 长庆宗贸瑞禅师骄录, 长庆宗宝独禅师语录, 丹霞法孙今耦重编
+./selected_images/qldzjpng_163_118.png, 楞经势至念佛国通章疏钞, 楞严经势至念佛圆通章疏钞, 清浙水慈云灌顶沙门法集
+./selected_images/qldzjpng_163_176.png, 观自在菩藤如意心临罗尼咒经略疏, 观自在菩萨如意心罗尼咒经疏, 清上天竺讲寺住持沙门法逑
+./selected_images/qldzjpng_163_212.png, 燕师隔璃光如来本顾功德经直解, 药师瑙璃光如来本功德经直解, 清天台芯灵耀槟
+./selected_images/qldzjpng_163_262.png, 兜率躺镜集, 率鲍镜集, 清广州南海蜜象林沙门舞宏赣在辑
+./selected_images/qldzjpng_163_332.png, 七俱溉佛母所提陀罗尼经程, 七俱肌佛母所提陀罗尼经会, 清粤东鼎湖山苦提心沙门宏替会程, 唐天竺三藏法师大广智不空奉韶
+./selected_images/qldzjpng_163_402.png, 涛山：策句记, 山警策句释记, 清粤东湖山沙门释宏赞在掺茫
+./selected_images/qldzjpng_163_466.png, 佛说四十二章经疏钞, 佛四十二章经疏钞, 清浙水慈云灌顶沙门法远
+./selected_images/qldzjpng_163_648.png, 佛说八大人骨经疏, 佛八大人觉经疏, 清, 浙水崇夀沙门灌顶法集
+./selected_images/qldzjpng_164_003.png, 成唯识音响补遣, 成雅识音响补遣, 清武林莲居绍觉大师音, 法嗣智素补, 新伊大师合, 菊比, 美我
+./selected_images/qldzjpng_165_003.png, 妙法莲华经授手, 妙法莲华经授手, 清楚衡云案沙门智祥集
+./selected_images/qldzjpng_166_003.png, 贤首五教仪, 贤首五教仪, 清浙水慈云沙门灌顶法集录
+./selected_images/qldzjpng_166_177.png, 重订教乘法数, 重订教秉法数
+./selected_images/qldzjpng_167_003.png, 御选语录, 御选语录
+./selected_images/qldzjpng_168_003.png, 御录宗镜大网, 御录宗镜大, 慧日·水明妙圆正修智觉礼师二
+./selected_images/qldzjpng_168_331.png, 御录经海一滴, 御绿经海一滴

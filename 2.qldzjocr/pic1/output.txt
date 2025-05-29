@@ -1,0 +1,430 @@
+Original Image Path: qldzjpng/001/005.jpg
+Detected Text: 利藏經序
+Text Block Image Path: temp_images/001-005-0.png
+Brightness of Text Block Image: 252.24912985274432
+
+Original Image Path: qldzjpng/001/006.jpg
+Detected Text: P
+Text Block Image Path: temp_images/001-006-0.png
+Brightness of Text Block Image: 251.77400021793613
+
+Original Image Path: qldzjpng/001/007.jpg
+Detected Text: 離聖教序
+Text Block Image Path: temp_images/001-007-0.png
+Brightness of Text Block Image: 252.62987012987014
+
+Original Image Path: qldzjpng/001/009.jpg
+Detected Text: 戴聖教記
+Text Block Image Path: temp_images/001-009-0.png
+Brightness of Text Block Image: 236.7626412049489
+
+Original Image Path: qldzjpng/001/011.jpg
+Detected Text: 新刊绩入藏經序
+Text Block Image Path: temp_images/001-011-0.png
+Brightness of Text Block Image: 243.57901268615555
+
+Original Image Path: qldzjpng/001/013.jpg
+Detected Text: 表新刊入藏經序
+Text Block Image Path: temp_images/001-013-0.png
+Brightness of Text Block Image: 248.87525252525253
+
+Original Image Path: qldzjpng/001/015.jpg
+Detected Text: 施佛藏經序
+Text Block Image Path: temp_images/001-015-0.png
+Brightness of Text Block Image: 253.31901646264245
+
+Original Image Path: qldzjpng/001/017.jpg
+Detected Text: 印施佛藏經
+Text Block Image Path: temp_images/001-017-0.png
+Brightness of Text Block Image: 252.28167388167387
+
+Original Image Path: qldzjpng/001/019.jpg
+Detected Text: 右應初會序
+Text Block Image Path: temp_images/001-019-0.png
+Brightness of Text Block Image: 254.25747282608697
+
+Original Image Path: qldzjpng/001/021.jpg
+Detected Text: 三藏聖教目
+Text Block Image Path: temp_images/001-021-0.png
+Brightness of Text Block Image: 240.38837318330988
+
+Original Image Path: qldzjpng/001/023.jpg
+Detected Text: 三戴聖教目线
+Text Block Image Path: temp_images/001-023-0.png
+Brightness of Text Block Image: 245.0270415858651
+
+Original Image Path: qldzjpng/001/025.jpg
+Detected Text: 二藏坚教目錄
+Text Block Image Path: temp_images/001-025-0.png
+Brightness of Text Block Image: 248.1366479049406
+
+Original Image Path: qldzjpng/001/027.jpg
+Detected Text: 二藏聖教目
+Text Block Image Path: temp_images/001-027-0.png
+Brightness of Text Block Image: 250.02748917748917
+
+Original Image Path: qldzjpng/001/029.jpg
+Detected Text: 二载里教目鐵
+Text Block Image Path: temp_images/001-029-0.png
+Brightness of Text Block Image: 237.6609824109824
+
+Original Image Path: qldzjpng/001/031.jpg
+Detected Text: 戴聖教目绿
+Text Block Image Path: temp_images/001-031-0.png
+Brightness of Text Block Image: 237.84482089745248
+
+Original Image Path: qldzjpng/001/033.jpg
+Detected Text: 藏聖教目鐵
+Text Block Image Path: temp_images/001-033-0.png
+Brightness of Text Block Image: 228.7209360219069
+
+Original Image Path: qldzjpng/001/035.jpg
+Detected Text: 批型教目铁
+Text Block Image Path: temp_images/001-035-0.png
+Brightness of Text Block Image: 234.6518315018315
+
+Original Image Path: qldzjpng/001/037.jpg
+Detected Text: 一藏聖教目缘
+Text Block Image Path: temp_images/001-037-0.png
+Brightness of Text Block Image: 248.6660633484163
+
+Original Image Path: qldzjpng/001/039.jpg
+Detected Text: 藏里教目錄
+Text Block Image Path: temp_images/001-039-0.png
+Brightness of Text Block Image: 249.78110395351774
+
+Original Image Path: qldzjpng/001/041.jpg
+Detected Text: 藏聖教目
+Text Block Image Path: temp_images/001-041-0.png
+Brightness of Text Block Image: 228.7240413614821
+
+Original Image Path: qldzjpng/001/043.jpg
+Detected Text: 戴聖教目鐵
+Text Block Image Path: temp_images/001-043-0.png
+Brightness of Text Block Image: 239.7910063136194
+
+Original Image Path: qldzjpng/001/045.jpg
+Detected Text: 藏聖教目錄
+Text Block Image Path: temp_images/001-045-0.png
+Brightness of Text Block Image: 249.6421856639248
+
+Original Image Path: qldzjpng/001/047.jpg
+Detected Text: 藏聖教目
+Text Block Image Path: temp_images/001-047-0.png
+Brightness of Text Block Image: 250.75308510638297
+
+Original Image Path: qldzjpng/001/049.jpg
+Detected Text: 一藏聖教目缘
+Text Block Image Path: temp_images/001-049-0.png
+Brightness of Text Block Image: 252.21502108049808
+
+Original Image Path: qldzjpng/001/051.jpg
+Detected Text: 二藏聖教目錄
+Text Block Image Path: temp_images/001-051-0.png
+Brightness of Text Block Image: 249.50260869565219
+
+Original Image Path: qldzjpng/001/053.jpg
+Detected Text: 三戴聖教目鐵
+Text Block Image Path: temp_images/001-053-0.png
+Brightness of Text Block Image: 238.54349078341014
+
+Original Image Path: qldzjpng/001/055.jpg
+Detected Text: 二藏聖教目錄
+Text Block Image Path: temp_images/001-055-0.png
+Brightness of Text Block Image: 236.86395600432743
+
+Original Image Path: qldzjpng/001/057.jpg
+Detected Text: 二藍里教目錄
+Text Block Image Path: temp_images/001-057-0.png
+Brightness of Text Block Image: 251.28480686695278
+
+Original Image Path: qldzjpng/001/059.jpg
+Detected Text: 一藏聖教目鐵
+Text Block Image Path: temp_images/001-059-0.png
+Brightness of Text Block Image: 250.91130136986303
+
+Original Image Path: qldzjpng/001/060.jpg
+Detected Text: P
+Text Block Image Path: temp_images/001-060-0.png
+Brightness of Text Block Image: 251.94367375392122
+
+Original Image Path: qldzjpng/001/061.jpg
+Detected Text: 三戴圣教目
+Text Block Image Path: temp_images/001-061-0.png
+Brightness of Text Block Image: 238.9644511760513
+
+Original Image Path: qldzjpng/001/063.jpg
+Detected Text: 三戴聖教目錄
+Text Block Image Path: temp_images/001-063-0.png
+Brightness of Text Block Image: 242.09319727891156
+
+Original Image Path: qldzjpng/001/065.jpg
+Detected Text: 藏聖教目錄
+Text Block Image Path: temp_images/001-065-0.png
+Brightness of Text Block Image: 237.20875420875421
+
+Original Image Path: qldzjpng/001/069.jpg
+Detected Text: 戴聖教日鲜
+Text Block Image Path: temp_images/001-069-0.png
+Brightness of Text Block Image: 249.73822728647775
+
+Original Image Path: qldzjpng/001/071.jpg
+Detected Text: 藏聖教目缘
+Text Block Image Path: temp_images/001-071-0.png
+Brightness of Text Block Image: 250.6858185134519
+
+Original Image Path: qldzjpng/001/073.jpg
+Detected Text: 藏聖教目
+Text Block Image Path: temp_images/001-073-0.png
+Brightness of Text Block Image: 230.22836015658982
+
+Original Image Path: qldzjpng/001/075.jpg
+Detected Text: 戴聖教目
+Text Block Image Path: temp_images/001-075-0.png
+Brightness of Text Block Image: 241.42688598979012
+
+Original Image Path: qldzjpng/001/077.jpg
+Detected Text: 藏聖教目缘
+Text Block Image Path: temp_images/001-077-0.png
+Brightness of Text Block Image: 249.7841463414634
+
+Original Image Path: qldzjpng/001/079.jpg
+Detected Text: 藏聖教目缘
+Text Block Image Path: temp_images/001-079-0.png
+Brightness of Text Block Image: 250.4564238952537
+
+Original Image Path: qldzjpng/001/081.jpg
+Detected Text: 二戴聖教目錄
+Text Block Image Path: temp_images/001-081-0.png
+Brightness of Text Block Image: 249.97897049591964
+
+Original Image Path: qldzjpng/001/083.jpg
+Detected Text: 一藏聖教目
+Text Block Image Path: temp_images/001-083-0.png
+Brightness of Text Block Image: 251.71417340521114
+
+Original Image Path: qldzjpng/001/085.jpg
+Detected Text: 戴聖教目缘
+Text Block Image Path: temp_images/001-085-0.png
+Brightness of Text Block Image: 235.13235294117646
+
+Original Image Path: qldzjpng/001/087.jpg
+Detected Text: 藏聖教目
+Text Block Image Path: temp_images/001-087-0.png
+Brightness of Text Block Image: 238.28740756850806
+
+Original Image Path: qldzjpng/001/089.jpg
+Detected Text: 二藏里教目錄
+Text Block Image Path: temp_images/001-089-0.png
+Brightness of Text Block Image: 250.56081717190736
+
+Original Image Path: qldzjpng/001/090.jpg
+Detected Text: P
+Text Block Image Path: temp_images/001-090-0.png
+Brightness of Text Block Image: 252.39911772814997
+
+Original Image Path: qldzjpng/001/091.jpg
+Detected Text: 藏里教目缘
+Text Block Image Path: temp_images/001-091-0.png
+Brightness of Text Block Image: 250.0544098288723
+
+Original Image Path: qldzjpng/001/093.jpg
+Detected Text: 一载聖教目缘
+Text Block Image Path: temp_images/001-093-0.png
+Brightness of Text Block Image: 240.6584862385321
+
+Original Image Path: qldzjpng/001/095.jpg
+Detected Text: 刻龍藏業記
+Text Block Image Path: temp_images/001-095-0.png
+Brightness of Text Block Image: 237.65201674277017
+
+Original Image Path: qldzjpng/001/097.jpg
+Detected Text: 刻龍藏記
+Text Block Image Path: temp_images/001-097-0.png
+Brightness of Text Block Image: 238.75548780487804
+
+Original Image Path: qldzjpng/001/099.jpg
+Detected Text: 望教目缝
+Text Block Image Path: temp_images/001-099-0.png
+Brightness of Text Block Image: 226.62401402278704
+
+Original Image Path: qldzjpng/001/100.jpg
+Detected Text: 2
+Text Block Image Path: temp_images/001-100-0.png
+Brightness of Text Block Image: 243.93294329432942
+
+Original Image Path: qldzjpng/001/101.jpg
+Detected Text: 刻龍藏記
+Text Block Image Path: temp_images/001-101-0.png
+Brightness of Text Block Image: 251.70632798573976
+
+Original Image Path: qldzjpng/001/102.jpg
+Detected Text: P
+Text Block Image Path: temp_images/001-102-0.png
+Brightness of Text Block Image: 248.91885763314335
+
+Original Image Path: qldzjpng/001/103.jpg
+Detected Text: 大清重刻龍藏棠记
+Text Block Image Path: temp_images/001-103-0.png
+Brightness of Text Block Image: 247.91182667322144
+
+Original Image Path: qldzjpng/001/105.jpg
+Detected Text: 重刻龍藏最記
+Text Block Image Path: temp_images/001-105-0.png
+Brightness of Text Block Image: 228.46002976972244
+
+Original Image Path: qldzjpng/001/107.jpg
+Detected Text: 重刻龍藏記
+Text Block Image Path: temp_images/001-107-0.png
+Brightness of Text Block Image: 235.81727886056973
+
+Original Image Path: qldzjpng/001/109.jpg
+Detected Text: 重刻龍藏記
+Text Block Image Path: temp_images/001-109-0.png
+Brightness of Text Block Image: 249.75104166666668
+
+Original Image Path: qldzjpng/001/111.jpg
+Detected Text: 重刻龍藏靠記
+Text Block Image Path: temp_images/001-111-0.png
+Brightness of Text Block Image: 249.93192257217848
+
+Original Image Path: qldzjpng/001/113.jpg
+Detected Text: 清重刻龍藏記
+Text Block Image Path: temp_images/001-113-0.png
+Brightness of Text Block Image: 247.56592371684195
+
+Original Image Path: qldzjpng/001/115.jpg
+Detected Text: 有重刻龍藏集記
+Text Block Image Path: temp_images/001-115-0.png
+Brightness of Text Block Image: 250.7125420875421
+
+Original Image Path: qldzjpng/001/117.jpg
+Detected Text: 重刻龍藏記
+Text Block Image Path: temp_images/001-117-0.png
+Brightness of Text Block Image: 235.03358656537384
+
+Original Image Path: qldzjpng/001/119.jpg
+Detected Text: 重刻龍藏集記
+Text Block Image Path: temp_images/001-119-0.png
+Brightness of Text Block Image: 240.28935742971888
+
+Original Image Path: qldzjpng/001/121.jpg
+Detected Text: 重刻龍藏集記
+Text Block Image Path: temp_images/001-121-0.png
+Brightness of Text Block Image: 250.4940872135994
+
+Original Image Path: qldzjpng/001/123.jpg
+Detected Text: 重刻能藏最記
+Text Block Image Path: temp_images/001-123-0.png
+Brightness of Text Block Image: 250.31758931445123
+
+Original Image Path: qldzjpng/001/125.jpg
+Detected Text: 里刻龍藏集記
+Text Block Image Path: temp_images/001-125-0.png
+Brightness of Text Block Image: 243.06037694499233
+
+Original Image Path: qldzjpng/001/127.jpg
+Detected Text: 刻龍藏業記
+Text Block Image Path: temp_images/001-127-0.png
+Brightness of Text Block Image: 233.21701996295533
+
+Original Image Path: qldzjpng/001/129.jpg
+Detected Text: 重刻龍藏記
+Text Block Image Path: temp_images/001-129-0.png
+Brightness of Text Block Image: 235.0973936899863
+
+Original Image Path: qldzjpng/001/131.jpg
+Detected Text: 刻龍藏記
+Text Block Image Path: temp_images/001-131-0.png
+Brightness of Text Block Image: 239.69773904256664
+
+Original Image Path: qldzjpng/001/133.jpg
+Detected Text: 刻龍藏業記
+Text Block Image Path: temp_images/001-133-0.png
+Brightness of Text Block Image: 238.5685259727813
+
+Original Image Path: qldzjpng/001/135.jpg
+Detected Text: 刻妮藏記
+Text Block Image Path: temp_images/001-135-0.png
+Brightness of Text Block Image: 251.57268922852984
+
+Original Image Path: qldzjpng/001/137.jpg
+Detected Text: 清重刻龍藏集記
+Text Block Image Path: temp_images/001-137-0.png
+Brightness of Text Block Image: 247.56404958677686
+
+Original Image Path: qldzjpng/001/139.jpg
+Detected Text: 重刻龍藏集記
+Text Block Image Path: temp_images/001-139-0.png
+Brightness of Text Block Image: 234.08691860465117
+
+Original Image Path: qldzjpng/001/141.jpg
+Detected Text: 龍藏記
+Text Block Image Path: temp_images/001-141-0.png
+Brightness of Text Block Image: 242.2095681063123
+
+Original Image Path: qldzjpng/001/143.jpg
+Detected Text: 重刻龍藏業記
+Text Block Image Path: temp_images/001-143-0.png
+Brightness of Text Block Image: 252.68847104519773
+
+Original Image Path: qldzjpng/001/145.jpg
+Detected Text: 刻龍藏記
+Text Block Image Path: temp_images/001-145-0.png
+Brightness of Text Block Image: 251.48267608844313
+
+Original Image Path: qldzjpng/001/147.jpg
+Detected Text: 刻龍藏記
+Text Block Image Path: temp_images/001-147-0.png
+Brightness of Text Block Image: 252.45901477832513
+
+Original Image Path: qldzjpng/001/149.jpg
+Detected Text: 刻龍藏業記
+Text Block Image Path: temp_images/001-149-0.png
+Brightness of Text Block Image: 252.06720313179645
+
+Original Image Path: qldzjpng/001/151.jpg
+Detected Text: 刻龍藏靠記
+Text Block Image Path: temp_images/001-151-0.png
+Brightness of Text Block Image: 236.84626168224298
+
+Original Image Path: qldzjpng/001/153.jpg
+Detected Text: 皇刻龍藏集記
+Text Block Image Path: temp_images/001-153-0.png
+Brightness of Text Block Image: 239.69895199459094
+
+Original Image Path: qldzjpng/001/155.jpg
+Detected Text: 重刻龍藏业記
+Text Block Image Path: temp_images/001-155-0.png
+Brightness of Text Block Image: 253.20988099531195
+
+Original Image Path: qldzjpng/001/157.jpg
+Detected Text: 重刻龍藏集記
+Text Block Image Path: temp_images/001-157-0.png
+Brightness of Text Block Image: 253.25491949910554
+
+Original Image Path: qldzjpng/001/159.jpg
+Detected Text: 刻龍藏業記
+Text Block Image Path: temp_images/001-159-0.png
+Brightness of Text Block Image: 230.42646347363328
+
+Original Image Path: qldzjpng/001/160.jpg
+Detected Text: G
+Text Block Image Path: temp_images/001-160-0.png
+Brightness of Text Block Image: 251.41629213483145
+
+Original Image Path: qldzjpng/001/161.jpg
+Detected Text: 重刻龍藏记
+Text Block Image Path: temp_images/001-161-0.png
+Brightness of Text Block Image: 235.12455745091728
+
+Original Image Path: qldzjpng/001/162.jpg
+Detected Text: G
+Text Block Image Path: temp_images/001-162-0.png
+Brightness of Text Block Image: 248.49252690314867
+
+Original Image Path: qldzjpng/001/163.jpg
+Detected Text: 重刻龍藏集記
+Text Block Image Path: temp_images/001-163-0.png
+Brightness of Text Block Image: 243.74634146341464
+

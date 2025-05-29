@@ -1,0 +1,74 @@
+from bs4 import BeautifulSoup
+import re
+
+
+# 读取本地HTML文件的内容
+with open('1.qldzj-ml.html', 'r', encoding='utf-8') as file:
+    html_content = file.read()
+
+# 使用BeautifulSoup解析HTML
+soup = BeautifulSoup(html_content, 'html.parser')
+
+# 第一步：删除包含“部 号”的<tr>...</tr>行块
+rows = soup.find_all('tr')
+for row in rows:
+    if any('部 号' in td.get_text() for td in row.find_all('td')):
+        row.decompose()
+
+# 第二步：删除包含“第*册”的<td>...</td>块
+all_tds = soup.find_all('td')
+for td in all_tds:
+    if re.search(r'第\d+册', td.get_text()):
+        td.decompose()
+
+# 第三步：处理含有 rowspan 属性的列
+rows = soup.find_all('tr')
+i = 0
+while i < len(rows):
+    row = rows[i]
+    cols = row.find_all('td')
+    for col in cols:
+        rowspan = col.get('rowspan')
+        if rowspan:
+            rowspan = int(rowspan)
+            # 移除 rowspan 属性
+            del col['rowspan']
+            # 删除接下来指定行数的行
+            for _ in range(rowspan - 1):
+                if i + 1 < len(rows):
+                    next_row = rows[i + 1]
+                    next_row.decompose()
+                    rows = soup.find_all('tr')  # 重新获取行列表，因为结构已改变
+    # 如果保留的行第二列文字最后两个字是“目录”，则删除这两个字，同时保留 <a> 标签
+    if len(cols) > 1:
+        second_col = cols[1]
+        a_tag = second_col.find('a')
+        if a_tag:
+            text = a_tag.get_text(strip=True)
+            if text.endswith('目录'):
+                new_text = text[:-2]
+                a_tag.string = new_text
+    i += 1
+
+# 第四步：处理连续的空白行，只保留一个
+rows = soup.find_all('tr')
+prev_blank = False
+i = 0
+while i < len(rows):
+    row = rows[i]
+    if not row.get_text(strip=True):
+        if prev_blank:
+            row.decompose()
+            rows = soup.find_all('tr')
+        else:
+            prev_blank = True
+            i += 1
+    else:
+        prev_blank = False
+        i += 1
+
+# 将修改后的HTML写回到文件中
+with open('2.qldzj-sutra-name.html', 'w', encoding='utf-8') as file:
+    file.write(str(soup))
+
+print("处理完成，已生成qldzj-sutra-name.html")
