@@ -2,6 +2,7 @@
 
 # 定义基础目录和输出目录
 base_dir="/mnt/d/qldzjtiff"  # 根据实际情况设置基础目录
+base_dir="./"  # 根据实际情况设置基础目录
 input_dir="$base_dir/output"  # 输入目录，即之前的输出目录
 output_dir="$base_dir/png_output"  # 新的输出目录用于存放PNG文件
 

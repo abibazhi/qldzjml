@@ -38,5 +38,5 @@ def merge_tiffs_to_pdf(directory):
     print(f"PDF created at: {output_pdf_path}")
 
 # 替换为你自己的目录路径
-directory_path = '/mnt/d/qldzjtiff/038'
+directory_path = '/mnt/d/qldzjtiff/168'
 merge_tiffs_to_pdf(directory_path)

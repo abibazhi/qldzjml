@@ -39,6 +39,6 @@ def combine_tiff_to_pdf(folder_path, pdf_file_path):
 
 
 if __name__ == "__main__":
-    folder = r"/mnt/d/qldzjtiff/038"  # 替换为你的TIFF图片文件夹路径
+    folder = r"/mnt/d/qldzjtiff/168"  # 替换为你的TIFF图片文件夹路径
     pdfFile = r"output.pdf"  # 替换为你想要的输出PDF文件路径
     combine_tiff_to_pdf(folder, pdfFile)
