@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>佛典目录校验报告</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #f9f9fb;
+    }
+    h1, h2 { text-align: center; }
+    .summary {
+      text-align: center;
+      padding: 20px;
+      background: #e6f7ff;
+      border-radius: 8px;
+      margin-bottom: 30px;
+      font-size: 1.2em;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      background: white;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 12px 15px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background: #005a9c;
+      color: white;
+      font-weight: bold;
+    }
+    tr.pass:hover { background: #f0f9f0; }
+    tr.fail:hover { background: #fff0f0; }
+    .pass { background: #f0f9f0; }
+    .fail { background: #fff0f0; }
+    .fail td { color: #c00; }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #777;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <h1>📜 佛典目录校验报告</h1>
+  <div class="summary">
+    共校验 5 条，通过 3 条，失败 2 条。
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>编号</th>
+        <th>标题</th>
+        <th>实际译者</th>
+        <th>应为译者</th>
+        <th>状态</th>
+        <th>说明</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+    <tr class="pass">
+      <td>5</td>
+      <td>道行般若波罗蜜经</td>
+      <td>晋襄阳释道安撰</td>
+      <td>晋襄阳释道安撰</td>
+      <td>✅ 正确</td>
+      <td>完全匹配</td>
+    </tr>
+  
+    <tr class="fail">
+      <td>30</td>
+      <td>佛说法镜经</td>
+      <td>吴三藏沙门康僧会撰</td>
+      <td>后汉安息国优婆塞安玄共沙门严佛调译</td>
+      <td>❌ 错误</td>
+      <td>完全匹配<br>译者错误：应为 "后汉安息国优婆塞安玄共沙门严佛调译"，实际为 "吴三藏沙门康僧会撰"</td>
+    </tr>
+  
+    <tr class="pass">
+      <td>85</td>
+      <td>大方广佛华严经普贤菩萨行愿品</td>
+      <td>唐罽宾国三藏般若奉诏译</td>
+      <td>唐罽宾国三藏般若奉诏译</td>
+      <td>✅ 正确</td>
+      <td>完全匹配</td>
+    </tr>
+  
+    <tr class="pass">
+      <td>115</td>
+      <td>佛说方等泥洹经</td>
+      <td>失译人名附东晋录</td>
+      <td>失译人名附东晋录</td>
+      <td>✅ 正确</td>
+      <td>完全匹配</td>
+    </tr>
+  
+    <tr class="fail">
+      <td>212</td>
+      <td>菩萨睒子经</td>
+      <td>开元録云失译人名附西晋</td>
+      <td>undefined</td>
+      <td>❌ 错误</td>
+      <td>标题错误：应为 "undefined"，实际为 "菩萨睒子经"<br>译者错误：应为 "undefined"，实际为 "开元録云失译人名附西晋"</td>
+    </tr>
+  
+    </tbody>
+  </table>
+
+  <div class="footer">
+    生成时间: 2025/8/13 15:43:02
+  </div>
+</body>
+</html>
+  
