@@ -86,5 +86,17 @@
         "note": "该经与其他四部合为一卷，封面仅标‘五经同卷’，无独立经名与译者",
         "field": "structure",
         "type": "special-structure"
+    },
+    {
+      "id": "V212-cover-not-title",
+      "sutra_number": 212,
+      "title": "菩萨睒子经一卷",
+      "expected_cover_label": "五经同卷",
+      "cover_image_url": "https://daxumi.cn/qldzj/038/468.png",
+      "metadata_image_url": "https://daxumi.cn/qldzj/038/469.png",
+      "catalog_index_page": "038468",
+      "metadata_page": "038469",
+      "expected_link_target": "cover_page",
+      "note": "作为合卷中的第一经，链接指向封面页 038468 是合理且常见的做法"
     }
 ]
