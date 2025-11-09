@@ -40,8 +40,8 @@ def analyze_image(image_url: str, question: str) -> str:
         judge_prompt = "请用json格式输出经名和卷号。没有就输出空"
 
         clientDeepseek = OpenAI(
-            #api_key=os.environ.get('DEEPSEEK_API_KEY'),
-            api_key='sk-570772014b0447efbfc9b1f577d7d86b',
+            api_key=os.environ.get('DEEPSEEK_API_KEY'),
+            #api_key='sk-570772014b0447efbfc9b1f577d7d86b',
             base_url="https://api.deepseek.com")
 
         judge_response = clientDeepseek.chat.completions.create(

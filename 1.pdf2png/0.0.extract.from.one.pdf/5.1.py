@@ -4,6 +4,7 @@ from PIL import Image
 
 # 1. 拿 pdfimages 列表
 pdf = '038.pdf'
+pdf = '004.pdf'
 lines = subprocess.check_output(['pdfimages', '-list', pdf],
                                 text=True).splitlines()[2:]
 

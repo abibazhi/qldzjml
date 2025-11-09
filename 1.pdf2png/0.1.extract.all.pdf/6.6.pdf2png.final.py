@@ -3,6 +3,7 @@ import os, struct, subprocess, io
 from PIL import Image
 
 pdf = '021.pdf'
+pdf = '038.pdf'
 
 # 读取 pdfimages 列表
 lines = subprocess.check_output(['pdfimages', '-list', pdf], text=True).splitlines()[2:]
