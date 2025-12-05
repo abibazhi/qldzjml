@@ -15,7 +15,9 @@ def convert_image(input_path, output_path):
     print(f"已成功转换并保存为 {output_path}")
 
 # 使用示例
-input_file = "532.great.png"
-output_file = "532.great.new.png"
+#input_file = "532.great.png"
+#output_file = "532.great.new.png"
 
+input_file = "222.png"
+output_file = "222.new.png"
 convert_image(input_file, output_file)
